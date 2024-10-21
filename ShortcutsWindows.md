@@ -1,52 +1,48 @@
 * Normal
 * !Heavily Used
-* * ?Frequent
+* ?Frequent
 * *Less Used
 * //Useless
 * TODO
 
 # -----------------WINDOWS-----------------
 
-* !Program Search - Alt + Spacebar
-
-* !Close App - Alt + F + X
-
 * !Close App/Window - Ctrl + Shift + W
+* !Close App - Alt + F + X (often)
+* !Close App - Alt + F4
 
-* !Go Back/Forward - Alt + Left/Rigtharrow
-
-* !Minimize Window - Win + DownArrow
-
-* !Maximize Window - Win + UpArrow
-
-* !File Explorer - Win + E
+## Win shortcuts
 
 * !Display/Hide Desktop - Win + D
 
-* !Minimize All Win - Win + M
+* !Open File Explorer - Win + E
 
 * !Settings - Win + I
 
-* ?Open Emoji Keyboard - Win + .
+* !Minimize All Win - Win + M
+
+* !Maximize Window - Win + UpArrow
+* !Minimize Window - Win + DownArrow
+* !Move Window To Side - Win + LeftArrow/RightArrow
 
 * ?Open Notifications - Win + N
 
-* ?Open/Switch To Instance Of App Taskbar - Win + Number (+ Shift To Open New + Ctrl To Open As Admin)
+* ?Open Emoji Keyboard - Win + .
+
+* ?Open/Switch To Instance Of App On Taskbar - Win + Number (+ Shift To Open New + Ctrl To Open As Admin)
 
 * ?Magnify Zoom In/Out - Win + '+' or '-'
-
 * ?Close Magnifier - Win + Esc
 
 * ?Quick Link Meny - Win + X
 
-* ?Instantly Switch App - Alt + Esc
+* ?Move App To Other Monitor - Win + Shift + Left/Right
+
+* *Instantly Switch App - Alt + Esc
 
 * *Cycle Apps On Taskbar - Win + T
 
-* *Move App To Other Monitor - Win + Shift + Left/Right
-
 * *Wake PC From Blank/Black screen - Win + Ctrl + Shift + B
-
 
 ## Quick Actions Using Win + X
 
@@ -56,54 +52,60 @@
 
 ## ----------------FILE EXPLORER-----------------
 
-* !Create Folder - Ctrl + Shift + N
-
-* !Display Preview Panel - Alt + P
-
-* !Delete File - Del
-
-* !Open New Tab - Ctrl + T
-
 * !Close Active Tab/Window - Ctrl + W
 
-* !Move To Next/Previous Tab - Ctrl + Tab(+Shift)
+* !Create Folder - Ctrl + Shift + N
+
+* !Delete File/Folder - Del
 
 * !Rename Folder - F2 (Rename Next Folder - Tab)
 
 * ?Open Properties For Selected Item - Alt + Enter
 
-* ?---Navigation---
+* *Open New Tab - Ctrl + T
 
-* ?View Next Folder - Alt + Right
+* *Display Preview Panel - Alt + P
 
-* ?View The Previous Folder - Alt + Left (or backspace)
+* ### ---Navigation---
 
-* ?View The Folder The Folder Was In - Alt + Up
+* ?Traverse Back - Alt + Right
+
+* ?Traverse Forward - Alt + Left (or backspace)
+
+* ?Go To Parent Folder- Alt + Up
+
+* ?Select Adress Bar - Alt + D 
+
+* *Move To Next/Previous Tab - Ctrl + Tab(+Shift)
 
 * *Open New Explorer - Ctrl + N
 
 * *Select Search Bar - Ctrl + E/F
-
-* *Select Adress Bar - Alt + D 
 
 * *Change Icon Size - Ctrl + Shift + Number
 
 
 ## -----------------SEARCH ENGINE-----------------
 
-* !Switch To Left Tab - Ctrl + Tab
+* !Go To Right Tab - Ctrl + Tab
 
-* !Switch To Right Tab - Ctrl + Shift + Tab
+* !Go To Left Tab - Ctrl + Shift + Tab
 
-## --------------MOUSE--------------
+* !Close Tab - Ctrl + W
 
-* !Right Click - Press Touchpad 2 Fingers
+* !Browser Back/Forward - Alt + Left/Right-arrow
 
-* !Windows Search - Press Touchpad 3 Fingers
+## --------------MOUSE (useless, use keyboard instead)--------------
 
-* ?Notifications - Press Touchpad 4 Fingers
+* *Right Click - Press Touchpad 2 Fingers
+
+* *Windows Search - Press Touchpad 3 Fingers
+
+* *Notifications - Press Touchpad 4 Fingers
 
 ## -----------------POWERTOYS-------------------------
+
+* !Program Search (Power search) - Alt + Spacebar
 
 * !Power Rename - Mark And Right Click Files For Rename
 
@@ -113,13 +115,13 @@
 
 * ! ColorPicker - Shift + Win + C
 
-* ? Pin App On Top - Ctrl + Win + T
+* ?Pin App On Top - Ctrl + Win + T
 
-* ? Change FancyZones - Shift + Win + Ø
+* *Change FancyZones - Shift + Win + Ø
 
-* ? Set Window In FancyZone - Shift While Dragging Window
+* *Set Window In FancyZone - Shift While Dragging Window
 
-* * Find Mouse - LCtrl + LCtrl
+* *Find Mouse - LCtrl + LCtrl
 
 
 	### ------POWER SEARCH------
@@ -130,8 +132,6 @@
 	- Find Week of date
 
 	- Convert Units
-
-	* !Power Search Run - Alt + Space
 
 	* !Hide Power Search - Esc
 
