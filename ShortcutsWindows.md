@@ -13,6 +13,24 @@
 
 ## Win shortcuts
 
+* !Open Start Menu - Win
+
+* !Open Search - Win + S
+
+* !Open Cortana - Win + C
+
+* !Open Task View - Win + Tab
+
+* !Open Action Center - Win + A
+
+* !Open Task Manager - Ctrl + Shift + Esc
+
+* !Open Run - Win + R
+
+* !Screen Cast - Win + K
+
+* !Open Snipping Tool - Win + Shift + S
+
 * !Display/Hide Desktop - Win + D
 
 * !Open File Explorer - Win + E

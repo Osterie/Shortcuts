@@ -8,130 +8,128 @@ TODO ||| LEARN AND USE EMMET SHORTCUTS
 TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * ! Emmet shortcut ideas:
-
 * ! -write "printme" and an emmet shortcut comes up which creates the function calling for leetcode,
 * ! for javascript js end and python py end.
 
 
-
 # Most useful keyboard shortcuts VSCODE
 
-## ----------------------CURSOR----------------------
+* *Global Find - Ctrl + Shift + F
+* !Search Files Ctrl + Shift + F
+* !Search And Replace Files Ctrl + Shift + H
+
+## ----------------------CURSOR/MULTILINE-CURSORS----------------------
 
 * !Add Cursor Above/Below - Ctrl + Alt + up/downArrow
-
-* !Add Cursor To Line Ends - Shift + Alt + I
 
 * !Add Cursor To Next Found Match - Ctrl + D
 
 * !Move Last Selection To Next Found Match - Ctrl + K + Ctrl + D
 
-* !Select All Occurences Of Current Selection - Ctrl + Shift + L
+* !Select All Occurences Of Currently Highlighted Text - Ctrl + Shift + L
 
 * !Shrink / Expand Selection - Shift + Alt + Left / Right
 
-* ?Column Selection - Ctrl + Shift + Alt + Arrows
+* ?Column Selection - Ctrl + Alt + ArrowUp/ArrowDown
 
-* ?Undo Last Cursos Operation - Ctrl + U
+* ?Select All Results Of A Find Operation - Alt + Enter PRAC
 
-* ?Select All Results Of A Find Operation - Alt + Enter
+* *Add Cursor To Line Ends Of Highlighted Lines - Shift + Alt + I
 
-	### -------------------------NAVIGATION--------------------
+## -------------------------NAVIGATION--------------------
 
-	* !Move Editor Left / Right - Ctrl + Shift + PageUp / PageDown
+* !Move To Start / End Of Line - Home / End
+* !Go To Beginning / End Of File - Ctrl + Home / End
 
-	* !Open Previous / Next Editor - Ctrl + PageUp / PageDown
+* !Go back/forward - ALT + Left/RightArrow
 
-    * !Move To Start / End Of Line - Home / End
+* !Quick Navigate File(not all files. But for example classes or a proper .md file) - Ctrl + Shift + . PRAC
 
-	* ?Focus And Select Breadcrumbs - Ctrl + Shift + .
+* ?Undo Last Cursor Operation - Ctrl + U
 
-	* ?Open settings - Ctrl + ,
+* ?Scroll Line Up / Down - Ctrl + Up / Down
 
-	* ?Split View Change View - Ctrl + 1, Ctrl + 2...
+* ?Scroll Page Up / Down - Alt + PgUp / PgDn
 
-    * ?Scroll Line Up / Down - Ctrl + Up / Down
+* *Focus On Open Editors - Ctrl + K + E
 
-    * ?Scroll Page Up / Down - Alt + PgUp / PgDn
+* *Change Tab Mode - Ctrl + M
 
-	* ?Change Tab Mode - Ctrl + M
+* *Show All Symbols In Workspace - Ctrl + T (highlighted/selected area only)
 
-	* ?Change Color Theme - Ctrl + K + Ctrl + T 
-
-	* ?Open Settings - Ctrl + ;
-
-	* ?Open Shortcuts - Ctrl + K + Ctrl + S
-
-	* ?Focus On Open Editors - Ctrl + K + E
-
-	* *Move to previous/next mouse area - ALT + Left/RightArrow
-
-	* *Show All Symbols In Workspace - Ctrl + T (marked/selected area only)
-
-	* *Show Refrences - Shift + F12
-
-	* *Global Find - Ctrl + Shift + F
-
-    * *Go To Beginning / End Of File - Ctrl + Home / End
-
+* *Show Refrences - Shift + F12
 
 ## -------------------FOLDING--------------
-
-* ?Toggle fold - Ctrl + K + Ctrl + L
 
 * !Fold All - Ctrl + K + Ctrl + 0
 
 * !Unfold All - Ctrl + K + Ctrl + J
 
+* !Toggle fold - Ctrl + K + Ctrl + L
+
 ## ----------------EDITOR--------------
 
 * ?Open active file in new editor - Ctrl + K , O
 
+* *Move Editor Left / Right - Ctrl + Shift + PageUp / PageDown
+
+* *Open Previous / Next Editor - Ctrl + PageUp / PageDown
+
 ## -----------------LINES-----------------
 
-* !Delete Line - Ctrl + Shift + K
+* !Delete Line - Ctrl + Shift + K PRAC
 
 * !Duplicate Line - Shift + Alt + Up/DownArrow
 
 * !Move Lines Up/Down - Alt + Up/DownArrow
 
-* !Select Line - Ctrl + L
+* !Select Line - Ctrl + L PRAC
 
 * !Go To Specific Line - Ctrl + G
 
-* !Auto Fix - Shift + Alt + .
+* ?Auto Fix - Shift + Alt + .
 
-* *Join Lines - Ctrl + Shift + J
+* ?Join Lines - Ctrl + Shift + J PRAC
 
-* *Trim Trailing Whitespace - Ctrl + K + Ctrl + X
+* ?Trim Trailing Whitespace - Ctrl + K + Ctrl + X PRAC
 
 ## -----------------CHANGE IN SPACE-----------------
 
 * !Split Editor - Ctrl + | (Pipe)
 
-* !Zen Mode - Ctrl + K + Z
-
 * !Toggle Sidebar - Ctrl + B
 
-* ?Toggle Terminal - Ctrl + J
+* !Toggle Terminal - Ctrl + J
+
+* *Zen Mode - Ctrl + K + Z
 
 ## -----------------COMMENTS-----------------
 
 * !Comment Entire Line - Ctrl + '
 
-* ?Add Comment - Shift + ALt + A
+* ?Add Comment - Shift + ALt + A PRAC
 
-## -----------------META-----------------
+## -----------------META/MISC-----------------
+
+* !Go to File - Ctrl + P
 
 * !Command Palette - Ctrl + Shift + P
 
-* !Snapshot code- command palette "snapshot"
+* !Save All - Ctrl + K + S
 
-* ?Go to File - Ctrl + P
+* ?New File - Ctrl + N
 
-* ?New File - Ctrl + Alt + Win + N
+* *New File But More Options - Ctrl + Alt + Win + N
 
-* ?Save All - Ctrl + K + S
+* ?New Line - Ctrl + Enter PRAC
+
+* ?Open settings - Ctrl + , PRAC
+
+* ?Change Color Theme - Ctrl + K + Ctrl + T PRAC
+
+* ?Split View Change View - Ctrl + 1, Ctrl + 2...
+
+* ?Open Shortcuts - Ctrl + K + Ctrl + S
 
 * *Toggle Word Wrap - Alt + Z
 
@@ -139,8 +137,9 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 ## -----------------EXTENSIONS-----------------
 
-* !Insert numbers - Ctrl + Alt + N
 
-* !Relative Path - Ctrl + Shift + H 
+### Insert Numbers (By Asuka)
 
+* !Insert numbers At Multiline-Cursors - Ctrl + Alt + N PRAC
 
+* !Snapshot code- command palette(Ctrl+shift+p) "CodeSnap"
