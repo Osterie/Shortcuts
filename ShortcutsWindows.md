@@ -7,9 +7,15 @@
 
 # -----------------WINDOWS-----------------
 
+## -----------------GENERAL-----------------
+
+* !Switch Between Open Apps - Alt + Tab (Hold Shift To Go Backwards)
+
 * !Close App/Window - Ctrl + Shift + W
 * !Close App - Alt + F + X (often)
 * !Close App - Alt + F4
+
+* * Reveal Typed Password In Sign-In Screen - Alt + F8
 
 ## Win shortcuts
 
@@ -17,17 +23,13 @@
 
 * !Open Search - Win + S
 
-* !Open Cortana - Win + C
-
-* !Open Task View - Win + Tab
+* !Lock Computer - Win + L
 
 * !Open Action Center - Win + A
 
 * !Open Task Manager - Ctrl + Shift + Esc
 
-* !Open Run - Win + R
-
-* !Screen Cast - Win + K
+* !Open Clipboard History - Win + V
 
 * !Open Snipping Tool - Win + Shift + S
 
@@ -35,13 +37,19 @@
 
 * !Open File Explorer - Win + E
 
-* !Settings - Win + I
+* ?Open Run - Win + R
 
-* !Minimize All Win - Win + M
+* ?Screen Cast - Win + K
 
-* !Maximize Window - Win + UpArrow
-* !Minimize Window - Win + DownArrow
-* !Move Window To Side - Win + LeftArrow/RightArrow
+* ?Screen Projection - Win + P
+
+* ?Settings - Win + I
+
+* ?Minimize All Win - Win + M
+
+* ?Maximize Window - Win + UpArrow
+* ?Minimize Window - Win + DownArrow
+* ?Move Window To Side - Win + LeftArrow/RightArrow
 
 * ?Open Notifications - Win + N
 
@@ -56,9 +64,15 @@
 
 * ?Move App To Other Monitor - Win + Shift + Left/Right
 
+* *Open Cortana - Win + C
+
+* *Open Task View - Win + Tab
+
 * *Instantly Switch App - Alt + Esc
 
 * *Cycle Apps On Taskbar - Win + T
+
+* *Focus On Notification Area Of Taskbar - Win + B
 
 * *Wake PC From Blank/Black screen - Win + Ctrl + Shift + B
 
@@ -79,6 +93,8 @@
 * !Rename Folder - F2 (Rename Next Folder - Tab)
 
 * ?Open Properties For Selected Item - Alt + Enter
+
+* ?Focus On Address Bar - Ctrl + L
 
 * *Open New Tab - Ctrl + T
 
