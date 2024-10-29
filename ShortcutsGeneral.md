@@ -11,13 +11,18 @@
 * ! Undo - Ctrl + Z
 * ! Redo - Ctrl + Y OR Ctrl + Shift + Z
 
+* !Go To Right Tab - Ctrl + Tab
+* !Go To Left Tab - Ctrl + Shift + Tab
+
+* !Browser/Other Back/Forward - Alt + Left/Right-arrow
+
 * ! Save - Ctrl + S
 * ! Save As - Ctrl + Shift + S
 
 * ! Find - Ctrl + F
 * ! Find and Replace - Ctrl + H
 
-* ! Close - Ctrl + W
+* ! Close / Close Tab - Ctrl + W
 
 * ! New Tab - Ctrl + T
 

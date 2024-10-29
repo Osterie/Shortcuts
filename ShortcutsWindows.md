@@ -19,8 +19,6 @@
 
 ## Win shortcuts
 
-* !Open Start Menu - Win
-
 * !Open Search - Win + S
 
 * !Lock Computer - Win + L
@@ -36,6 +34,8 @@
 * !Display/Hide Desktop - Win + D
 
 * !Open File Explorer - Win + E
+
+* ?Open Start Menu - Win
 
 * ?Open Run - Win + R
 
@@ -118,17 +118,6 @@
 
 * *Change Icon Size - Ctrl + Shift + Number
 
-
-## -----------------SEARCH ENGINE-----------------
-
-* !Go To Right Tab - Ctrl + Tab
-
-* !Go To Left Tab - Ctrl + Shift + Tab
-
-* !Close Tab - Ctrl + W
-
-* !Browser Back/Forward - Alt + Left/Right-arrow
-
 ## --------------MOUSE (useless, use keyboard instead)--------------
 
 * *Right Click - Press Touchpad 2 Fingers
@@ -136,61 +125,3 @@
 * *Windows Search - Press Touchpad 3 Fingers
 
 * *Notifications - Press Touchpad 4 Fingers
-
-## -----------------POWERTOYS-------------------------
-
-* !Program Search (Power search) - Alt + Spacebar
-
-* !Power Rename - Mark And Right Click Files For Rename
-
-* !Screen Ruler - Shift + Win + M
-
-* !Text Extractor - Shift + Win + T
-
-* ! ColorPicker - Shift + Win + C
-
-* ?Pin App On Top - Ctrl + Win + T
-
-* *Change FancyZones - Shift + Win + Ø
-
-* *Set Window In FancyZone - Shift While Dragging Window
-
-* *Find Mouse - LCtrl + LCtrl
-
-
-	### ------POWER SEARCH------
-	WHY USE POWER SEARCH?
-
-	- Able To Do Simple Mathematical Operations
-
-	- Find Week of date
-
-	- Convert Units
-
-	* !Hide Power Search - Esc
-
-		#### ---COMMANDS----
-
-		* ! Calculator - =
-
-		* ! Web Search - ??
-
-		* ? Installed programs - .
-
-		* ? Unit Converter - %% (10 ft in m)
-
-		* ? URI-Handler - // (learn.microsoft.com)
-
-		* *File Searching - ?
-
-		* *History - !!
-
-		* *Time Zone - & + "Country"
-
-			##### ------TIME AND DATE-----
-
-			* ? Time And Date - )
-
-			* ? Calendar Week - ) Calendar Week::10/20/2022
-
-			* * Current Time And Date (With Different Formats) - ) Time And Date
