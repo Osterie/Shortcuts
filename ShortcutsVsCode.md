@@ -16,74 +16,66 @@
 TODO ||| LEARN AND USE EMMET SHORTCUTS
 TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
-## View
-
-* !Show Explorer - Ctrl + Shift + E
-* !Show Extensions - Ctrl + Shift + X
-* !Show Run And Debug - Ctrl + Shift + D
-* !Show Search - Ctrl + Shift + F
-* !Show Source Control - Ctrl + Shift + G + G
-
-
 ## Other
 
 * !Maximise Editor Group - Ctrl + K + Ctrl + M PRAC
 
 * ?Toggle Problems - Ctrl + Shift + M PRAC
 
-* ?Toggle Terminal - Ctrl + Ø PRAC
+* !Refactor - Ctrl + Shift + R PRAC
 
-* !Refactor - Ctrl + Shift + R
-
-* !Zoom In / Out - Ctrl + + / -
+* !Zoom In / Out - Ctrl + -/+ 
 
 * !Close Editor - Ctrl + W
 
-* ?Remove Brackets - Ctrl + Alt + Backspace
+* ?Remove Brackets - Ctrl + Alt + Backspace PRAC 
 
-* !Open External Terminal(To Root Of Opened Project) - Ctrl + Shift + C
+* !Open External Terminal(To Root Of Opened Project) - Ctrl + Shift + C 
 
 * !Open Markdown Preview - Ctrl + Shift + V
-* !Open Markdown Preview To The Side - Ctrl + K + V
+* !Open Markdown Preview To The Side - Ctrl + K + V PRAC
 
-* ?Indent Line - Ctrl + Å
-* ?Outdent Line - Ctrl + \ OR Shift + Tab
+* ?Indent Line - Ctrl + Å PRAC
+* ?Outdent Line - Ctrl + \ OR Shift + Tab PRAC
 
-* !Open Other Editro - Ctrl + Tab / Ctrl + Shift + Tab
+* !Open Other Editor - Ctrl + Tab / Ctrl + Shift + Tab
 
-* *Trigger Suggest - Ctrl + K + Ctrl + I
+* *Trigger Suggest - Ctrl + K + Ctrl + I PRAC
 
-* ?Go To Symbol In Editor - Ctrl + Shift + O
+* ?Go To Symbol In Editor - Ctrl + Shift + O PRAC
 
 * *Change Language Mode - Ctrl + K + M
 
 * !Reload Window - Ctrl + R (When condition must be changed from isDevelopment to for example editorFocus)
 
-* !Format Document - Shift + Alt + F
+* !Format Document - Shift + Alt + F PRAC
 
-* ?Format Selection - Ctrl + K + Ctrl + F
+* ?Format Selection - Ctrl + K + Ctrl + F PRAC
+
+* ?Focus Primary Sidebar - Ctrl + 0 PRAC
 
 * ?Focus Editor Group - Ctrl + 1
 
-* ?Focus Primary Sidebar - Ctrl + 0
-
-* ?Pin/Unpin Editor - Ctrl + K + Shift + Enter
+* ?Pin/Unpin Editor - Ctrl + K + Shift + Enter PRAC
 
 * !Go To Bracket - Ctrl + Shift + | PRAC
+
+* !Global Find - Ctrl + Shift + F
+* !Search And Replace Files Ctrl + Shift + H
 
 
 * *Close Window - Ctrl + F4 OR Ctrl + Shift + W
 
-* ?Close Other Tabs - Ctrl + K + Q
+* ?Close Other Tabs - Ctrl + K + Q PRAC
 
 * *Copy Editor Into New Window - Ctrl + K + O
 
-* *Compare With Clipboard - Ctrl + K + C
+* *Compare With Clipboard - Ctrl + K + C PRAC
 
-* *Compare With Saved - Ctrl + K + D
+* *Compare With Saved - Ctrl + K + D PRAC
 
-* *Copy Absolute Path Of Active File - Shift + Alt + C
-* *Copy Relative Path Of Active File - Ctrl + K + Ctrl + Shift + C
+* *Copy Absolute Path Of Active File - Shift + Alt + C PRAC
+* *Copy Relative Path Of Active File - Ctrl + K + Ctrl + Shift + C PRAC
 
 ## FILES/FOLDERS
 
@@ -91,30 +83,45 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * ?Open Folder - Ctrl + K + Ctrl + O
 
-* ?Reveal Active File In Explorer - Shift + Alt + R
+* ?Reveal Active File In Explorer - Shift + Alt + R PRAC
+
+
+<!-- TODO FIX STRUCTURE -->
 
 # Most useful keyboard shortcuts VSCODE
 
-* !Global Find - Ctrl + Shift + F
-* !Search And Replace Files Ctrl + Shift + H
+## View Primary SideBar
+
+* !Show Explorer - Ctrl + Shift + E
+* !Show Extensions - Ctrl + Shift + X
+* !Show Run And Debug - Ctrl + Shift + D
+* !Show Search - Ctrl + Shift + F
+* !Show Source Control - Ctrl + Shift + G + G
+* ?Show TODOs Tree (extension) - Ctrl + Shift + G + T
+
+## View Panel
+
+* !Toggle Panel Visibility - Ctrl + J PRAC
+
+* ?Toggle Terminal - Ctrl + Ø PRAC
+
+* ?Move To Left / Right Terminal - Alt + Left / RightArrow
+
 
 ## ----------------------CURSOR/MULTILINE-CURSORS----------------------
 
-* !Add Cursor Above/Below - Ctrl + Alt + up/downArrow
+* !Add Cursor Above/Below - Ctrl + Alt + ArrowUp/ArrowDown
 
 * !Add Cursor To Next Found Match - Ctrl + D
-
 * !Move Last Selection To Next Found Match - Ctrl + K + Ctrl + D
 
 * !Select All Occurences Of Currently Highlighted Text - Ctrl + Shift + L
 
 * !Shrink / Expand Selection - Shift + Alt + Left / Right
 
-* ?Column Selection - Ctrl + Alt + ArrowUp/ArrowDown
-
 * ?Select All Results Of A Find Operation - Alt + Enter PRAC
 
-* *Add Cursor To Line Ends Of Highlighted Lines - Shift + Alt + I
+* *Add Cursor To Line Ends Of Highlighted Lines - Shift + Alt + I PRAC
 
 ## -------------------------NAVIGATION--------------------
 
@@ -125,11 +132,11 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Quick Navigate File(not all files. But for example classes or a proper .md file) - Ctrl + Shift + . PRAC
 
-* ?Undo Last Cursor Operation - Ctrl + U
-
-* ?Scroll Line Up / Down - Ctrl + Up / Down
+* !Undo Last Cursor Operation - Ctrl + U
 
 * ?Scroll Page Up / Down - Alt + PgUp / PgDn
+
+* *Scroll Line Up / Down - Ctrl + Up / Down
 
 * *Focus On Open Editors - Ctrl + K + E
 
@@ -143,21 +150,22 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Fold All - Ctrl + K + Ctrl + 0
 
-* !Fold All Block Comments - Ctrl + K + Ctrl + '
+* !Fold All Block Comments - Ctrl + K + Ctrl + ' PRAC
 
 * !Unfold All - Ctrl + K + Ctrl + J
 
 * !Toggle fold - Ctrl + K + Ctrl + L
 
+* ?Fold - Ctrl + Shift + \ PRAC
+
 * *Fold Level - Ctrl + K + Ctrl + Number
 
 * *Fold All Except Selected - Ctrl + K + Ctrl + -
 
-* *Fold - Ctrl + Shift + \
 
 ## ----------------EDITOR--------------
 
-* ?Open active file in new editor - Ctrl + K , O
+* ?Open active file in new editor - Ctrl + K , O PRAC
 
 * *Move Editor Left / Right - Ctrl + Shift + PageUp / PageDown
 
@@ -167,9 +175,9 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Delete Line - Ctrl + Shift + K PRAC
 
-* !Duplicate Line - Shift + Alt + Up/DownArrow
+* !Duplicate Line - Shift + Alt + ArrowUp/ArrowDown
 
-* !Move Lines Up/Down - Alt + Up/DownArrow
+* !Move Lines Up/Down - Alt + ArrowUp/ArrowDown
 
 * !Select Line - Ctrl + L PRAC
 
@@ -186,8 +194,6 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * !Split Editor - Ctrl + | (Pipe)
 
 * !Toggle Sidebar - Ctrl + B
-
-* !Toggle Terminal - Ctrl + J
 
 * *Zen Mode - Ctrl + K + Z
 
@@ -235,11 +241,11 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 ### Live Server
 
-* !Open Live Server - Alt + L + Alt + O
-* !Stop Live Server - Alt + L + Alt + C
+* !Open Live Server - Alt + L + Alt + O PRAC
+* !Stop Live Server - Alt + L + Alt + C PRAC
 
-* ?Follow/Unfollow Participant - Ctrl + Alt + F
-* ?Follow Participant To The Side - Ctrl + Alt + '
+* ?Follow/Unfollow Participant - Ctrl + Alt + F PRAC
+* ?Follow Participant To The Side - Ctrl + Alt + ' PRAC
 
 ### Peacock
 
