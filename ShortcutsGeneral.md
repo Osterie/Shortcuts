@@ -14,14 +14,17 @@
 * ! Save - Ctrl + S
 * ! Save As - Ctrl + Shift + S
 
-* ! Print - Ctrl + P
-
 * ! Find - Ctrl + F
 * ! Find and Replace - Ctrl + H
 
-* ! Open - Ctrl + O
 * ! Close - Ctrl + W
 
-* ! New - Ctrl + N
 * ! New Tab - Ctrl + T
-* ! New Window - Ctrl + Shift + N
+
+* ? New - Ctrl + N
+
+* ? Print - Ctrl + P
+
+* ? Open - Ctrl + O
+
+* * New Window - Ctrl + Shift + N
