@@ -26,7 +26,7 @@ Table of Contents
         * [Files/Folders](#filesfolders)
         * [View Primary SideBar](#view-primary-sidebar)
         * [View Panel](#view-panel)
-        * [Curson/Multiline-Cursors](#cursonmultiline-cursors)
+        * [Cursor/Multiline-Cursors](#cursormultiline-cursors)
         * [Navigation](#navigation)
         * [Folding](#folding)
         * [Editor](#editor)
@@ -43,7 +43,6 @@ Table of Contents
 
 * !Refactor - Ctrl + Shift + R PRAC
 
-* !Zoom In / Out - Ctrl + -/+ 
 
 * ?Remove Brackets - Ctrl + Alt + Backspace PRAC 
 
@@ -85,8 +84,9 @@ Table of Contents
 
 * ?Open Folder - Ctrl + K + Ctrl + O
 
-* ?Reveal Active File In Explorer - Shift + Alt + R PRAC
+* ?New File - Ctrl + N
 
+* ?Reveal Active File In Explorer - Shift + Alt + R PRAC
 
 <!-- TODO FIX STRUCTURE -->
 
@@ -110,7 +110,7 @@ Table of Contents
 * ?Move To Left / Right Terminal - Alt + Left / RightArrow
 
 
-## Curson/Multiline-Cursors
+## Cursor/Multiline-Cursors
 
 * !Add Cursor Above/Below - Ctrl + Alt + ArrowUp/ArrowDown
 
@@ -127,26 +127,28 @@ Table of Contents
 
 ## Navigation
 
+### Cursor Navigation
+
 * !Move To Start / End Of Line - Home / End
 * !Go To Beginning / End Of File - Ctrl + Home / End
 
 * !Go back/forward - ALT + Left/RightArrow
 
-* !Quick Navigate File(not all files. But for example classes or a proper .md file) - Ctrl + Shift + . PRAC
-
 * !Undo Last Cursor Operation - Ctrl + U
-
-* ?Go To Symbol In Editor - Ctrl + Shift + O PRAC
 
 * ?Scroll Page Up / Down - Alt + PgUp / PgDn
 
 * *Scroll Line Up / Down - Ctrl + Up / Down
 
-* *Focus On Open Editors - Ctrl + K + E
+### Nagivation In Editor
 
-* *Change Tab Mode - Ctrl + M
+* !Quick Navigate File(not all files. But for example classes or a proper .md file) - Ctrl + Shift + . PRAC
 
-* *Show Refrences - Shift + F12
+* ?Go To Symbol In Editor - Ctrl + Shift + O PRAC
+
+### Navigation Between Files
+
+* !Go to File - Ctrl + P
 
 * *Show All Symbols In Workspace - Ctrl + T (highlighted/selected area only)
 
@@ -213,17 +215,17 @@ Table of Contents
 
 * ?Add Comment - Shift + ALt + A PRAC
 
-## Meta/Misc
+## Meta
+
+* !Zoom In / Out - Ctrl + -/+ 
 
 * !Reload Window - Ctrl + R (When condition must be changed from isDevelopment to for example editorFocus)
 
-* !Go to File - Ctrl + P
 
 * !Command Palette - Ctrl + Shift + P
 
 * !Save All - Ctrl + K + S
 
-* ?New File - Ctrl + N
 
 * *New File But More Options - Ctrl + Alt + Win + N
 
@@ -250,6 +252,14 @@ Table of Contents
 
 * *Copy Absolute Path Of Active File - Shift + Alt + C PRAC
 * *Copy Relative Path Of Active File - Ctrl + K + Ctrl + Shift + C PRAC
+
+## Misc
+
+* *Focus On Open Editors - Ctrl + K + E
+
+* *Change Tab Mode - Ctrl + M
+
+* *Show Refrences - Shift + F12
 
 ## Extensions
 
