@@ -4,29 +4,46 @@
 * *Less Used
 * //Useless
 
-
-
 * ! Emmet shortcut ideas:
 * ! -write "printme" and an emmet shortcut comes up which creates the function calling for leetcode,
 * ! for javascript js end and python py end.
 
-* !Open Keyboard Shortcuts Reference - Ctrl + K + Ctrl + R
 * !https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf // Official VSCODE shortcuts
+
+* !Open Keyboard Shortcuts Reference - Ctrl + K + Ctrl + R
 
 TODO ||| LEARN AND USE EMMET SHORTCUTS
 TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
-## Other
+# Most useful keyboard shortcuts VSCODE
 
-* !Maximise Editor Group - Ctrl + K + Ctrl + M PRAC
+Table of Contents
+=================
 
-* ?Toggle Problems - Ctrl + Shift + M PRAC
+   * [Most useful keyboard shortcuts VSCODE](#most-useful-keyboard-shortcuts-vscode)
+   * [Table of Contents](#table-of-contents)
+        * [Not yet categorized](#not-yet-categorized)
+        * [Files/Folders](#filesfolders)
+        * [View Primary SideBar](#view-primary-sidebar)
+        * [View Panel](#view-panel)
+        * [Curson/Multiline-Cursors](#cursonmultiline-cursors)
+        * [Navigation](#navigation)
+        * [Folding](#folding)
+        * [Editor](#editor)
+        * [Lines](#lines)
+        * [Change in space](#change-in-space)
+        * [Comments](#comments)
+        * [Meta/Misc](#metamisc)
+        * [Extensions](#extensions)
+             * [Insert Numbers (By Asuka)](#insert-numbers-by-asuka)
+             * [Live Server](#live-server)
+             * [Peacock](#peacock)
+
+## Not yet categorized
 
 * !Refactor - Ctrl + Shift + R PRAC
 
 * !Zoom In / Out - Ctrl + -/+ 
-
-* !Close Editor - Ctrl + W
 
 * ?Remove Brackets - Ctrl + Alt + Backspace PRAC 
 
@@ -38,15 +55,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * ?Indent Line - Ctrl + Å PRAC
 * ?Outdent Line - Ctrl + \ OR Shift + Tab PRAC
 
-* !Open Other Editor - Ctrl + Tab / Ctrl + Shift + Tab
-
 * *Trigger Suggest - Ctrl + K + Ctrl + I PRAC
-
-* ?Go To Symbol In Editor - Ctrl + Shift + O PRAC
-
-* *Change Language Mode - Ctrl + K + M
-
-* !Reload Window - Ctrl + R (When condition must be changed from isDevelopment to for example editorFocus)
 
 * !Format Document - Shift + Alt + F PRAC
 
@@ -66,18 +75,11 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Close Window - Ctrl + F4 OR Ctrl + Shift + W
 
-* ?Close Other Tabs - Ctrl + K + Q PRAC
+* ?Close Other Editors - Ctrl + K + Q PRAC
 
 * *Copy Editor Into New Window - Ctrl + K + O
 
-* *Compare With Clipboard - Ctrl + K + C PRAC
-
-* *Compare With Saved - Ctrl + K + D PRAC
-
-* *Copy Absolute Path Of Active File - Shift + Alt + C PRAC
-* *Copy Relative Path Of Active File - Ctrl + K + Ctrl + Shift + C PRAC
-
-## FILES/FOLDERS
+## Files/Folders
 
 * ?Open File - Ctrl + O
 
@@ -87,8 +89,6 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 
 <!-- TODO FIX STRUCTURE -->
-
-# Most useful keyboard shortcuts VSCODE
 
 ## View Primary SideBar
 
@@ -103,12 +103,14 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Toggle Panel Visibility - Ctrl + J PRAC
 
+* ?Toggle Problems - Ctrl + Shift + M PRAC
+
 * ?Toggle Terminal - Ctrl + Ø PRAC
 
 * ?Move To Left / Right Terminal - Alt + Left / RightArrow
 
 
-## ----------------------CURSOR/MULTILINE-CURSORS----------------------
+## Curson/Multiline-Cursors
 
 * !Add Cursor Above/Below - Ctrl + Alt + ArrowUp/ArrowDown
 
@@ -123,7 +125,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Add Cursor To Line Ends Of Highlighted Lines - Shift + Alt + I PRAC
 
-## -------------------------NAVIGATION--------------------
+## Navigation
 
 * !Move To Start / End Of Line - Home / End
 * !Go To Beginning / End Of File - Ctrl + Home / End
@@ -134,6 +136,8 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Undo Last Cursor Operation - Ctrl + U
 
+* ?Go To Symbol In Editor - Ctrl + Shift + O PRAC
+
 * ?Scroll Page Up / Down - Alt + PgUp / PgDn
 
 * *Scroll Line Up / Down - Ctrl + Up / Down
@@ -142,11 +146,11 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Change Tab Mode - Ctrl + M
 
-* *Show All Symbols In Workspace - Ctrl + T (highlighted/selected area only)
-
 * *Show Refrences - Shift + F12
 
-## -------------------FOLDING--------------
+* *Show All Symbols In Workspace - Ctrl + T (highlighted/selected area only)
+
+## Folding
 
 * !Fold All - Ctrl + K + Ctrl + 0
 
@@ -163,7 +167,13 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * *Fold All Except Selected - Ctrl + K + Ctrl + -
 
 
-## ----------------EDITOR--------------
+## Editor
+
+* !Open Other Editor In Group - Ctrl + Tab / Ctrl + Shift + Tab
+
+* !Close Editor - Ctrl + W
+
+* !Maximise Editor Group - Ctrl + K + Ctrl + M PRAC
 
 * ?Open active file in new editor - Ctrl + K , O PRAC
 
@@ -171,7 +181,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Open Previous / Next Editor - Ctrl + PageUp / PageDown
 
-## -----------------LINES-----------------
+## Lines
 
 * !Delete Line - Ctrl + Shift + K PRAC
 
@@ -189,7 +199,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * ?Trim Trailing Whitespace - Ctrl + K + Ctrl + X PRAC
 
-## -----------------CHANGE IN SPACE-----------------
+## Change in space
 
 * !Split Editor - Ctrl + | (Pipe)
 
@@ -197,13 +207,15 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Zen Mode - Ctrl + K + Z
 
-## -----------------COMMENTS-----------------
+## Comments
 
 * !Comment Entire Line - Ctrl + '
 
 * ?Add Comment - Shift + ALt + A PRAC
 
-## -----------------META/MISC-----------------
+## Meta/Misc
+
+* !Reload Window - Ctrl + R (When condition must be changed from isDevelopment to for example editorFocus)
 
 * !Go to File - Ctrl + P
 
@@ -230,7 +242,16 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Detect Language From Content - Shift + Alt + D
 
-## -----------------EXTENSIONS-----------------
+* *Change Language Mode - Ctrl + K + M
+
+* *Compare With Clipboard - Ctrl + K + C PRAC
+
+* *Compare With Saved - Ctrl + K + D PRAC
+
+* *Copy Absolute Path Of Active File - Shift + Alt + C PRAC
+* *Copy Relative Path Of Active File - Ctrl + K + Ctrl + Shift + C PRAC
+
+## Extensions
 
 
 ### Insert Numbers (By Asuka)
@@ -249,5 +270,10 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 ### Peacock
 
+* ?Surprise Me With A Random Color - Shift + Alt Win + + (Set a keybinding for this)
+
 * *Darken Workspace - Alt + Win + -
 * *Lighten Workspace - Alt + Win + +
+
+
+<a href="#top"> Top </a>
