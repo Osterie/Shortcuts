@@ -12,3 +12,13 @@ If you want to read the markdown files, i recommend you open them with visual st
 * * ?Frequent
 * *Less Used
 * //Useless
+
+# Links To Shortcuts
+
+
+- [General Shortcuts](ShortcutsGeneral.md)
+- [Windows Shortcuts](ShortcutsWindows.md)
+- [Visual Studio Code Shortcuts](ShortcutsVSCode.md)
+- [PowerToys Shortcuts](ShortcutsPowerToys.md)
+- [Discord Shortcuts](ShortcutsDiscord.md)
+- [Bash Shortcuts](ShortcutsBash.md)
