@@ -6,111 +6,111 @@
 
 These shortcuts work when focused on a message.
 
-* !Edit Message - E
-
-* !Delete Message - Backspace
-
-* !Pin Message - P
-
-* !Add Reaction - +
+* !Copy Text - Ctrl + C
 
 * !Focus Text Area - Escape
 
-* ?Reply - R
+* ?Add Reaction - +
 
-* ?Copy Text - Ctrl + C
+* ?Edit Message - E
+
+* ?Delete Message - Backspace
+
+* ?Pin Message - P
+
+* *Reply - R
 
 * *Mark As Unread - Alt + Enter
 
-
 ## Navigation
+
+* !Toggle Quick Switcher - Ctrl + K
+
+* !Section Jump - F6
 
 * !Navigate Between Areas - Tab / Shift + Tab
 
 * !Navigate Between Messages And Such - ArrowUp/ArrowDown (With Tab Focus)
 
-* !Section Jump - F6
-
-* !Go To Symbol On Left - Ctrl + Number
-
-* !Navigate Between Servers - Ctrl + Alt + ArrowUp/ArrowDown
-
-* !Navigate Between Channels - Alt + ArrowUp/ArrowDown
-
 * !Navigate Forward And Backward In Page History - Alt + Left/RightArrow
-
-* !Navigate Between Unread Channels - Alt + Shift + ArrowUp/ArrowDown
-
-* !Navigate Between Unread Channels with Mentions - Ctrl + Shift + Alt + ArrowUp/ArrowDown
-
-* !Navigate To Current Call - Ctrl + Shift + Alt + V
 
 * !Toggle Between Last Server And DMs - Ctrl + Alt + ArrowRight
 
-* !Toggle Quick Switcher - Ctrl + K
+* ? Navigate To Current Call - Ctrl + Shift + Alt + V
+
+* ? Navigate Between Unread Channels - Alt + Shift + ArrowUp/ArrowDown
+
+* ? Navigate Between Unread Channels with Mentions - Ctrl + Shift + Alt + ArrowUp/ArrowDown
+
+* ? Navigate Between Channels - Alt + ArrowUp/ArrowDown
+
+* ? Go To Symbol On Left Side (Server Or Discord Symbol) - Ctrl + Number
+
+* ? Navigate Between Servers - Ctrl + Alt + ArrowUp/ArrowDown
+
 
 ## Servers
 
-* !Create Or Join A Server - Ctrl + Shift + N
-
+* ! Create Or Join A Server - Ctrl + Shift + N
 
 ## Drag And Drop
 
 These shortcuts work when focused on a draggable item.
 
-* ! Start Drag And Drop - Ctrl + D
-* ! Move - ArrowUp/ArrowDown
-* ! Drop Item - Enter/Space
-* ! Cancel - Esc
+* * Start Drag And Drop - Ctrl + D
+* * Move - ArrowUp/ArrowDown
+* * Drop Item - Enter/Space
+* * Cancel - Esc
 
 ## Chat
 
-* ! Mark Server Read - Shift + Esc
+<!-- TODO Should be under space or something? Layout? -->
+* ! Toggle Channel Member List Or Voice Text Chat - Ctrl + U
 
-* ! Mark Channel As Read - Esc
+* ! Search Chat - Ctrl + F
 
 * ! Create A Private Group - Ctrl + Shift + T
 
 * ! Toggle Pins Popout - Ctrl + P
 * ! Toggle Inbox Popout - Ctrl + I
-* ! Mark Top Inbox Channel Read - Ctrl + Shift + E
-
-* ! Toggle Channel Member List Or Voice Text Chat - Ctrl + U
 
 * ! Toggle Emoji Picker - Ctrl + E
-
 * ! Toggle GIF Picker - Ctrl + G
+* ? Toggle Sticker Picker - Ctrl + S
 
-* ! Toggle Sticker Picker - Ctrl + S
+* ? Mark Server Read - Shift + Esc
+* ? Mark Channel As Read - Esc
+* ? Mark Top Inbox Channel Read - Ctrl + Shift + E
 
-* ! Scroll Chat Up Or Down - PageUp/PageDown
+* ? Upload A File - Ctrl + Shift + U
 
-* ! Jump To Oldest Unread Message - Shift + PageUp
+### Chat Navigation
 
-* ! Focus Text Area - ANY KEY
+* ? Scroll Chat Up Or Down - PageUp/PageDown
 
-* ! Upload A File - Ctrl + Shift + U
+* ? Focus Text Area - ANY KEY
+
+* * Jump To Oldest Unread Message - Shift + PageUp
 
 ## Voice And Video
 
-* ! Toggle Mute - Ctrl + Shift + M
-
-* ! Toggle Deafen - Ctrl + Shift + D
+* ! Start Call In Private Message Or Group - Ctrl + '
 
 * ! Answer Incoming Call - Ctrl + Enter
 
 * ! Decline Incoming Call - Esc
 
-* ! Start Call In Private Message Or Group - Ctrl + '
+* ? Toggle Mute - Ctrl + Shift + M
 
-* ! Toggle Soundboard - Ctrl + Shift + B
+* ? Toggle Deafen - Ctrl + Shift + D
+
+* * Toggle Soundboard - Ctrl + Shift + B
 
 ## Miscellaneous
 
 * ! Zoom In / Out - Ctrl + -/+
+* ! Default Zoom - Ctrl + 0
 
-* ! Get Help - Ctrl + Shift + H
+* * Get Help - Ctrl + Shift + H
 
-* ! Search - Ctrl + F
-
-* ! Listen To Lofi Beats With Wumpus - Ctrl + Shift + Alt + W
+* * Listen To Lofi Beats With Wumpus - Ctrl + Shift + Alt + W
