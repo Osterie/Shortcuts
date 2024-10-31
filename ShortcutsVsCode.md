@@ -285,5 +285,9 @@ Table of Contents
 * *Darken Workspace - Alt + Win + -
 * *Lighten Workspace - Alt + Win + +
 
+### Git
+
+* !Git Open Changes - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
+* !Git Open File - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
 
 <a href="#top"> Top </a>
