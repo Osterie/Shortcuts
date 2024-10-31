@@ -49,10 +49,10 @@
 
 These shortcuts work when focused on a draggable item.
 
-* * Start Drag And Drop - Ctrl + D
-* * Move - ArrowUp/ArrowDown
-* * Drop Item - Enter/Space
-* * Cancel - Esc
+* ? Start Drag And Drop - Ctrl + D
+* ? Move - ArrowUp/ArrowDown
+* ? Drop Item - Enter/Space
+* ? Cancel - Esc
 
 ## Chat
 

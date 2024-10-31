@@ -76,6 +76,14 @@
 
 * *Wake PC From Blank/Black screen - Win + Ctrl + Shift + B
 
+### Virtual Desktop
+
+* !Create New Desktop - Win + Ctrl + D
+
+* !Close Current Desktop - Win + Ctrl + F4
+
+* !Switch Desktop - Win + Ctrl + Left/Right
+
 ## Quick Actions Using Win + X
 
 * !Power Options - Win + X + O
