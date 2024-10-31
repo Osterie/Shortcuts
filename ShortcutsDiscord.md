@@ -2,29 +2,14 @@
 
 * ! Show Keyboard Shortcuts List - Ctrl + /
 
-## Messages
-
-These shortcuts work when focused on a message.
-
-* !Copy Text - Ctrl + C
-
-* !Focus Text Area - Escape
-
-* ?Add Reaction - +
-
-* ?Edit Message - E
-
-* ?Delete Message - Backspace
-
-* ?Pin Message - P
-
-* *Reply - R
-
-* *Mark As Unread - Alt + Enter
-
 ## Navigation
 
 * !Toggle Quick Switcher - Ctrl + K
+    * Filters:
+    * !`@` - Users
+    * !`*` - Servers
+    * ?`#` - Text Channels
+    * *`!` - Voice Channels
 
 * !Section Jump - F6
 
@@ -48,6 +33,13 @@ These shortcuts work when focused on a message.
 
 * ? Navigate Between Servers - Ctrl + Alt + ArrowUp/ArrowDown
 
+### Chat Navigation
+
+* ? Scroll Chat Up Or Down - PageUp/PageDown
+
+* ? Focus Text Area - ANY KEY
+
+* * Jump To Oldest Unread Message - Shift + PageUp
 
 ## Servers
 
@@ -68,6 +60,16 @@ These shortcuts work when focused on a draggable item.
 * ! Toggle Channel Member List Or Voice Text Chat - Ctrl + U
 
 * ! Search Chat - Ctrl + F
+    * You can combine multiple filters to narrow down your search.
+    * Filters:
+    * !`from:` - Results for specific user 
+    * !`has:` - Results with attachments, embeds, links, or files ()
+    * ?`mentions:` - Results where specific user is mentioned
+    * ?`before:` - Results before a specific date
+    * ?`during:` - Results during a specific date
+    * ?`after:` - Results after a specific date
+    * *`pinned:` - Results which are/are not pinend
+    * *`in:` - When in a server, search in a specific channel
 
 * ! Create A Private Group - Ctrl + Shift + T
 
@@ -84,14 +86,6 @@ These shortcuts work when focused on a draggable item.
 
 * ? Upload A File - Ctrl + Shift + U
 
-### Chat Navigation
-
-* ? Scroll Chat Up Or Down - PageUp/PageDown
-
-* ? Focus Text Area - ANY KEY
-
-* * Jump To Oldest Unread Message - Shift + PageUp
-
 ## Voice And Video
 
 * ! Start Call In Private Message Or Group - Ctrl + '
@@ -105,6 +99,26 @@ These shortcuts work when focused on a draggable item.
 * ? Toggle Deafen - Ctrl + Shift + D
 
 * * Toggle Soundboard - Ctrl + Shift + B
+
+## Messages
+
+These shortcuts work when focused on a message.
+
+* !Copy Text - Ctrl + C
+
+* !Focus Text Area - Escape
+
+* ?Add Reaction - +
+
+* ?Edit Message - E
+
+* ?Delete Message - Backspace
+
+* ?Pin Message - P
+
+* *Reply - R
+
+* *Mark As Unread - Alt + Enter
 
 ## Miscellaneous
 
