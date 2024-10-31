@@ -4,77 +4,84 @@
 
 ## Basic
 
+* !Zoom In - Ctrl + + 
+
+* !Zoom Out - Ctrl + -
+
+* !Reset Zoom - Ctrl + 0
+
+* !Open Quick Search - Ctrl + K
+
+* *Open Context Menu (when tab focus on song?) - Alt + J
+
+* *Select All (in playlists and artists) - Ctrl + A
+
+* *Filter (in songs and playlists (i do not know how to use this shortcut...)) - Ctrl + F
+
+## Meta
+
+* ?Reload - Ctrl + Shift + R
+
+* *Log Out - Alt + Shift + F6
+
+## Create
+
 * *Create New Playlist - Ctrl + N
 
 * *Create New Folder - Ctrl + Shift + N
 
-* *Open Context Menu - Alt + J
-
-* *Open Quick Search - Ctrl + K
-
-* *Select All - Ctrl + A
-
-* *Filter - Ctrl + F
-
-* *Search In Your Library - Ctrl + Alt + F
-
-* *Log Out - Alt + Shift + F6
-
 ## Playback
 
-* *Play/Pause - Space
+* !Play/Pause - Space
 
-* *Like - Alt + Shift + B
+* ?Like - Alt + Shift + B
+
+* ?Skip To Next - Ctrl + RightArrow
+
+* ?Skip To Previous - Ctrl + LeftArrow
 
 * *Shuffle - Ctrl + S
 
 * *Repeat - Ctrl + R
 
-* *Skip To Next - Ctrl + RightArrow
+* *Seek Forward (5sec) - Shift + RightArrow
 
-* *Skip To Previous - Ctrl + LeftArrow
+* *Seek Backward (5sec) - Shift + LeftArrow
 
-* *Seek Forward - Shift + RightArrow
+## Volume
 
-* *Seek Backward - Shift + LeftArrow
+* !Volume Up - Ctrl + UpArrow
 
-* *Volume Up - Ctrl + UpArrow
-
-* *Volume Down - Ctrl + DownArrow
+* !Volume Down - Ctrl + DownArrow
 
 ## Navigation
 
-* *Home - Shift + Alt + H
+* !Home - Shift + Alt + H
 
-* *Back In History - Ctrl + Alt + LeftArrow OR Alt + LeftArrow
+* ?Back In History - Ctrl + Alt + LeftArrow OR Alt + LeftArrow
 
-* *Forward In History - Ctrl + Alt + RightArrow OR Alt + RightArrow
+* ?Forward In History - Ctrl + Alt + RightArrow OR Alt + RightArrow
 
-* *Preferences - Ctrl + ,
+* ?Preferences - Ctrl + P OR Ctrl + ,
 
-* *Currently Playing - Shift + Alt + J
+* ?Currently Playing - Shift + Alt + J
 
-* *Search - Ctrl + L
+* !Focus Search Field - Ctrl + L
 
-* *Liked Songs - Shift + Alt + S
+* !Liked Songs - Shift + Alt + S
 
-* *Queue - Shift + Alt + Q
+* !Queue - Shift + Alt + Q
 
-* *Your Library - Shift + Alt + 0
-
-* *Your Playlists - Shift + Alt + 1
-
-* *Your Podcasts - Shift + Alt + 2
-
-* *Your Artists - Shift + Alt + 3
-
-* *Your Albums - Shift + Alt + 4
-
+* ?Your Library    - Shift + Alt + 0
+* !Your Playlists  - Shift + Alt + 1
+* *Your Podcasts   - Shift + Alt + 2
+* ?Your Artists    - Shift + Alt + 3
+* *Your Albums     - Shift + Alt + 4
 * *Your Audiobooks - Shift + Alt + 5
 
-* *Made For You - Shift + Alt + M
+* !Made For You - Shift + Alt + M
 
-* *New Releases - Shift + Alt + N
+* ?New Releases - Shift + Alt + N
 
 * *Charts - Shift + Alt + C
 
@@ -82,16 +89,14 @@
 
 * *Spotify Conenct - Shift + Alt + D
 
+* *Search In Your Library - Ctrl + Alt + F
+
 ## Layout
 
-* *Toggle Left Sidebar - Shift + Alt + L
+* !Toggle Left Sidebar - Shift + Alt + L
+* !Increase Left Sidebar Width - Shift + Alt + RightArrow
+* !Decrease Left Sidebar Width - Shift + Alt + LeftArrow
 
-* *Increase Left Sidebar Width - Shift + Alt + RightArrow
-
-* *Decrease Left Sidebar Width - Shift + Alt + LeftArrow
-
-* *Toggle Right Sidebar - Shift + Alt + R
-
-* *Increase Right Sidebar Width - Shift + Alt + Shift + UpArrow
-
-* *Decrease Right Sidebar Width - Shift + Alt + Shift + DownArrow
+* !Toggle Right Sidebar - Shift + Alt + R
+* !Increase Right Sidebar Width - Shift + Alt + UpArrow
+* !Decrease Right Sidebar Width - Shift + Alt + DownArrow
