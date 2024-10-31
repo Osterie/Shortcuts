@@ -11,29 +11,33 @@
     * ?`#` - Text Channels
     * *`!` - Voice Channels
 
+### General Navigation
+
 * !Section Jump - F6
-
 * !Navigate Between Areas - Tab / Shift + Tab
-
 * !Navigate Between Messages And Such - ArrowUp/ArrowDown (With Tab Focus)
 
 * !Navigate Forward And Backward In Page History - Alt + Left/RightArrow
 
-* !Toggle Between Last Server And DMs - Ctrl + Alt + ArrowRight
+* ? Go To Symbol On Left Side (Server Or Discord Symbol) - Ctrl + Number
 
-* ? Navigate To Current Call - Ctrl + Shift + Alt + V
+### Unread Navigation
 
 * ? Navigate Between Unread Channels - Alt + Shift + ArrowUp/ArrowDown
 
 * ? Navigate Between Unread Channels with Mentions - Ctrl + Shift + Alt + ArrowUp/ArrowDown
 
-* ? Navigate Between Channels - Alt + ArrowUp/ArrowDown
+### Other Navigation
 
-* ? Go To Symbol On Left Side (Server Or Discord Symbol) - Ctrl + Number
+* !Toggle Between Last Server And DMs - Ctrl + Alt + ArrowRight
+
+* ? Navigate To Current Call - Ctrl + Shift + Alt + V
+
+* ? Navigate Between Channels - Alt + ArrowUp/ArrowDown
 
 * ? Navigate Between Servers - Ctrl + Alt + ArrowUp/ArrowDown
 
-### Chat Navigation
+### In-Chat Navigation
 
 * ? Scroll Chat Up Or Down - PageUp/PageDown
 
@@ -56,8 +60,7 @@ These shortcuts work when focused on a draggable item.
 
 ## Chat
 
-<!-- TODO Should be under space or something? Layout? -->
-* ! Toggle Channel Member List Or Voice Text Chat - Ctrl + U
+### General
 
 * ! Search Chat - Ctrl + F
     * You can combine multiple filters to narrow down your search.
@@ -71,28 +74,43 @@ These shortcuts work when focused on a draggable item.
     * *`pinned:` - Results which are/are not pinend
     * *`in:` - When in a server, search in a specific channel
 
+* ? Upload A File - Ctrl + Shift + U
+
 * ! Create A Private Group - Ctrl + Shift + T
+
+### Space
+
+* ! Toggle Channel Member List Or Voice Text Chat - Ctrl + U
+
+### Toggle Popouts
 
 * ! Toggle Pins Popout - Ctrl + P
 * ! Toggle Inbox Popout - Ctrl + I
+
+### Sending Messages
 
 * ! Toggle Emoji Picker - Ctrl + E
 * ! Toggle GIF Picker - Ctrl + G
 * ? Toggle Sticker Picker - Ctrl + S
 
-* ? Mark Server Read - Shift + Esc
-* ? Mark Channel As Read - Esc
-* ? Mark Top Inbox Channel Read - Ctrl + Shift + E
+### Mark As Read
 
-* ? Upload A File - Ctrl + Shift + U
+* ? Mark Channel As Read - Esc
+* ? Mark Server Read - Shift + Esc
+* ? Mark Top Inbox Channel Read - Ctrl + Shift + E
 
 ## Voice And Video
 
+### Calls
+
+<!-- TODO this opens key combos -->
 * ! Start Call In Private Message Or Group - Ctrl + '
 
 * ! Answer Incoming Call - Ctrl + Enter
 
 * ! Decline Incoming Call - Esc
+
+### While In Call
 
 * ? Toggle Mute - Ctrl + Shift + M
 
