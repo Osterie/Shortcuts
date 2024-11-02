@@ -45,6 +45,11 @@ Table of Contents
 
 * !Refactor - Ctrl + Shift + R PRAC
 
+* ?Go To Next Problem (Error, Warning, Info) - Alt + F8 PRAC
+* ?Go To Previous Problem (Error, Warning, Info) - Alt + Shift + F8 PRAC
+
+* ?Go To Next Problem In Files(Error, Warning, Info) - F8 PRAC
+* ?Go To Previous Problem In Files(Error, Warning, Info) - Shift + F8 PRAC
 
 
 * !Toggle Find Using Case Sensitivity - Alt + C PRAC
