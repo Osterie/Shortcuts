@@ -57,10 +57,6 @@ Table of Contents
 * !Toggle Find Using Whole Word - Alt + W PRAC
 * !Toggle Find Using Regular Expression - Alt + R PRAC
 
-
-* ?Toggle Size To Content Width - Alt + Z PRAC
-
-
 * ?Remove Brackets - Ctrl + Alt + Backspace PRAC 
 
 * !Open External Terminal(To Root Of Opened Project) - Ctrl + Shift + C 
@@ -329,7 +325,7 @@ Table of Contents
 
 * ?Open Shortcuts - Ctrl + K + Ctrl + S
 
-* *Toggle Word Wrap - Alt + Z
+* ?Toggle Word Wrap - Alt + Z
 
 * *Detect Language From Content - Shift + Alt + D
 
