@@ -41,7 +41,18 @@ Table of Contents
 
 ## Not yet categorized
 
+* !Trigger Suggest - Ctrl + K + Ctrl + I PRAC
+
 * !Refactor - Ctrl + Shift + R PRAC
+
+
+
+* !Toggle Find Using Case Sensitivity - Alt + C PRAC
+* !Toggle Find Using Whole Word - Alt + W PRAC
+* !Toggle Find Using Regular Expression - Alt + R PRAC
+
+
+* ?Toggle Size To Content Width - Alt + Z PRAC
 
 
 * ?Remove Brackets - Ctrl + Alt + Backspace PRAC 
@@ -116,6 +127,70 @@ Table of Contents
 * ?Toggle Terminal - Ctrl + Ø PRAC
 
 * ?Move To Left / Right Terminal - Alt + Left / RightArrow
+
+* *Toggle Output - Ctrl + Shift + U
+
+## Terminal
+
+* !Previous In History - UpArrow
+* !Next In History - DownArrow
+
+* !Clear Selection - Esc
+
+* !Copy Selection (and clear) - Ctrl + C (When text is selected)
+* !Copy Selection - Ctrl + Shift + C (When text is selected)
+* !Paste - Ctrl + V
+* !Cut - Ctrl + X
+* !Select All - Ctrl + A
+* !Find - Ctrl + F
+* !Undo - Ctrl + Z
+* !Redo - Ctrl + Y
+
+
+
+* ?Create New Terminal - Ctrl + Shift + ø
+
+* ?Split Terminal - Ctrl + Shift + 5
+
+* !Stop Terminal - Ctrl + C
+
+* !Go To Recent Directory - Ctrl + G
+
+* *Weird Other Mouse Selection Mode - Alt + Mouse Selection
+
+* ?Scroll Up Line - Ctrl + Alt + PageUp
+* ?Scroll Down Line - Ctrl + Alt + PageDown
+
+* ?Scroll Up Page - Shift + PageUp
+* ?Scroll Down Page - Shift + PageDown
+
+* !Go To Top Of Terminal - Ctrl + Home
+* !Go To Bottom Of Terminal - Ctrl + End
+
+* !Scroll To Previous Command - Ctrl + UpArrow
+* !Scroll To Next Command - Ctrl + DownArrow
+
+* *Select To Previous Command - Ctrl + Shift + UpArrow
+* *Select To Next Command - Ctrl + Shift + DownArrow
+
+* !Kill Terminal - Ctrl + W (Custom set hotkeys, also set when condition)
+
+* !Kill All Terminals - Ctrl + K + W (Custom set hotkeys, also set when condition)
+
+### Split View
+
+* !Go To Right In Split Views - Alt + RightArrow
+* !Go To Left In Split Views - Alt + LeftArrow
+
+### Focus
+
+* ?Focus Next Terminal Group - Ctrl + PageDown
+* ?Focus Previous Terminal Group - Ctrl + PageUp
+
+* ?Focus Next Terminal In Terminal Group - Alt + DownArrow/RigthArrow
+* ?Focus Previous Terminal In Terminal Group - Alt + UpArrow/LeftArrow
+
+* ?Focus Terminal Tabs View - Ctrl + Shift + | (while in terminal)
 
 
 ## Cursor/Multiline-Cursors
@@ -258,7 +333,7 @@ Table of Contents
 
 * *Compare With Saved - Ctrl + K + D PRAC
 
-* *Copy Absolute Path Of Active File - Shift + Alt + C PRAC
+* *Copy Absolute Path Of Active File - Ctrl + K + P OR Shift + Alt + C PRAC
 * *Copy Relative Path Of Active File - Ctrl + K + Ctrl + Shift + C PRAC
 
 ## Misc
@@ -268,6 +343,11 @@ Table of Contents
 * *Change Tab Mode - Ctrl + M
 
 * *Show Refrences - Shift + F12
+
+
+## Debugging
+
+<!-- TODO add shortcuts for debugging -->
 
 ## Extensions
 
