@@ -45,6 +45,7 @@ Table of Contents
 
 * !Refactor - Ctrl + Shift + R PRAC
 
+<!-- TODO For the problem tab in the panel. Add information about the filtering of problems. And more shortcuts?  -->
 * ?Go To Next Problem (Error, Warning, Info) - Alt + F8 PRAC
 * ?Go To Previous Problem (Error, Warning, Info) - Alt + Shift + F8 PRAC
 
