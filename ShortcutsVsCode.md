@@ -78,6 +78,14 @@ Table of Contents
 
 * *Copy Editor Into New Window - Ctrl + K + O
 
+## Notifications
+
+* !Accept Notification Primary Action - Ctrl + Shift + A
+
+* ?Hide Notifications - Esc
+
+* *Show Notifications - Ctrl + K + Ctrl + Shift + N
+
 ## Files/Folders
 
 * ?Open File - Ctrl + O
