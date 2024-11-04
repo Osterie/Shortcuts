@@ -49,6 +49,8 @@ Table of Contents
 * ?Go To Next Problem (Error, Warning, Info) - Alt + F8 PRAC
 * ?Go To Previous Problem (Error, Warning, Info) - Alt + Shift + F8 PRAC
 
+
+
 * ?Go To Next Problem In Files(Error, Warning, Info) - F8 PRAC
 * ?Go To Previous Problem In Files(Error, Warning, Info) - Shift + F8 PRAC
 
@@ -67,7 +69,7 @@ Table of Contents
 * ?Indent Line - Ctrl + Å PRAC
 * ?Outdent Line - Ctrl + \ OR Shift + Tab PRAC
 
-* *Trigger Suggest - Ctrl + K + Ctrl + I PRAC
+* ?Trigger Suggest - Ctrl + Space OR Ctrl + K + Ctrl + I PRAC
 
 * !Format Document - Shift + Alt + F PRAC
 
@@ -76,6 +78,8 @@ Table of Contents
 * ?Focus Primary Sidebar - Ctrl + 0 PRAC
 
 * ?Focus Editor Group - Ctrl + 1
+
+* ?Move Active Editor Group - Ctrl + K + Left/RightArrow PRAC
 
 * ?Pin/Unpin Editor - Ctrl + K + Shift + Enter PRAC
 
@@ -107,7 +111,7 @@ Table of Contents
 
 * ?New File - Ctrl + N
 
-* ?Reveal Active File In Explorer - Shift + Alt + R PRAC
+* ?Reveal Active File In Explorer - Ctrl + K + R OR Shift + Alt + R PRAC
 
 <!-- TODO FIX STRUCTURE -->
 
@@ -260,6 +264,8 @@ Table of Contents
 
 * !Close Editor - Ctrl + W
 
+* !Reopen Closed Editor - Ctrl + Shift + T
+
 * !Maximise Editor Group - Ctrl + K + Ctrl + M PRAC
 
 * ?Open active file in new editor - Ctrl + K , O PRAC
@@ -311,6 +317,7 @@ Table of Contents
 
 * !Save All - Ctrl + K + S
 
+* ?Toggle Full Screen - F11
 
 * *New File But More Options - Ctrl + Alt + Win + N
 
@@ -340,16 +347,47 @@ Table of Contents
 
 ## Misc
 
+* !Rename - F2 (works for example renaming all uses also) PRAC
+
 * *Focus On Open Editors - Ctrl + K + E
 
 * *Change Tab Mode - Ctrl + M
 
 * *Show Refrences - Shift + F12
 
+* *Go To Definition - F12
+* *Peek Definition - Alt + F12
+* *Open Definition To The Side - Ctrl + K + F12
+
 
 ## Debugging
 
 <!-- TODO add shortcuts for debugging -->
+
+* ?Debug Continue - F5
+* ?Debug Disconnect - Shift + F5
+* ?Focus Next Debug Console - Ctrl + PageDown
+* ? Focus Previous Debug Console - Ctrl + PageUp
+* ?Inline Breakpoint - Shift + F9
+* ?Pause - F6
+* ?Restart - Ctrl + Shift + F5
+* ?Show Hover - Ctrl + K + Ctrl + I
+* ?Start Debugging - F5
+* ?Start Debugging And Stop On Entry - F10 OR F11
+* ?Start Without Debugging - Ctrl + F5
+* ?Step Into - F11
+* ?Step Into Target - Ctrl + F11
+* ?Step Out - Shift + F11
+* ?Step Over - F10
+* ?Stop - Shift + F5
+* ?Toggle Breakpoint - F9
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+
 
 ## Extensions
 
@@ -377,7 +415,13 @@ Table of Contents
 
 ### Git
 
+<!-- TODO add more git shortcuts -->
+
 * !Git Open Changes - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
 * !Git Open File - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
+
+#### In Git Diff View
+
+* ?Revert Selected Ranges - Ctrl + K + Ctrl + R PRAC
 
 <a href="#top"> Top </a>
