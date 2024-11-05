@@ -367,7 +367,7 @@ Table of Contents
 * ?Debug Continue - F5
 * ?Debug Disconnect - Shift + F5
 * ?Focus Next Debug Console - Ctrl + PageDown
-* ? Focus Previous Debug Console - Ctrl + PageUp
+* ?Focus Previous Debug Console - Ctrl + PageUp
 * ?Inline Breakpoint - Shift + F9
 * ?Pause - F6
 * ?Restart - Ctrl + Shift + F5
