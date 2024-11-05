@@ -43,7 +43,61 @@ Paste this into url bar for stuff:
 
 #### Alt + f shortcuts
 
-* !Quit Google Chrome - Alt + f then x
+* !Quit Google Chrome - Alt + f + x
+
+* ?Search With Google Lens - Alt + f + s
+
+* ?Translate - Alt + f + r
+
+* *Downloads - Alt + f + d + enter (Already exists shortcut)
+* *Delete Browsing Data - Alt + f + d + d + enter (Already exists shortcut)
+* *Print - Alt + f + p (Already exists shortcut)
+
+##### Passwords And Autofill
+
+* !Google Password Manager - Alt + f + a*2 + enter
+* \*Addresses And More - Alt + f + a*3 + enter
+* *Payment Methods - Alt + f + a + p
+
+##### History 
+
+* \*History - Alt + f + h*2 (Already exists shortcut)
+* *Grouped History - Alt + f + h + g + enter 
+
+##### Bookmarks And Lists
+
+* *Show/Hide Bookmarks Bar - Alt + f + s/h (Already exists shortcut)
+* *Bookmark Manager - Alt + f + b + b
+* *Reading List - Alt + f + b
+
+##### Extensions
+
+* *Manage Extensions - Alt + f + e + enter + enter
+* *Visit Chrome Webstore - Alt + f + e + enter + ArrowDown + enter
+
+
+##### Cast, Save and Share
+
+###### Cast
+
+* *Cast - Alt + f + c + c
+
+###### Save
+
+* *Save Page As - Alt + f + c + a (Already exists shortcut)
+
+* *Install As Page As App - Alt + f + c + i
+
+* *Create Shortcut - Alt + f + c + s
+
+###### Share
+
+* !Create QR Code - Alt + f + c + q
+
+* *Copy Link - Alt + f + c + l
+
+* *Send To Your Devices - Alt + f + c + d
+
 
 
 ## Google Chrome Featrue Shortcuts
