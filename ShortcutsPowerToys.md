@@ -9,7 +9,17 @@
 
 =======================
 
-# -----------------POWERTOYS-------------------------
+# PowerToys
+
+Table of Contents
+=================
+
+   * [General](#general)
+   * [Power Search](#power-search)
+	  * [Keywords](#keywords)
+	     * [Time and Date](#time-and-date)
+
+## General
 
 * !Program Search (Power search) - Alt + Spacebar
 
@@ -30,39 +40,32 @@
 * *Find Mouse - LCtrl + LCtrl
 
 
-	## ------POWER SEARCH------
-	WHY USE POWER SEARCH?
+## Power Search
 
-	- Able To Do Simple Mathematical Operations
+* !Hide Power Search - Esc
 
-	- Find Week of date
+### Keywords
 
-	- Convert Units
+* ! Calculator - =
 
-	* !Hide Power Search - Esc
+* ! Web Search - ??
 
-		### ---COMMANDS----
+* ? Installed programs - .
 
-		* ! Calculator - =
+* ? Unit Converter - %% (10 ft in m)
 
-		* ! Web Search - ??
+* ? URI-Handler - // (learn.microsoft.com)
 
-		* ? Installed programs - .
+* *File Searching - ?
 
-		* ? Unit Converter - %% (10 ft in m)
+* *History - !!
 
-		* ? URI-Handler - // (learn.microsoft.com)
+* *Time Zone - & + "Country"
 
-		* *File Searching - ?
+#### Time and Date
 
-		* *History - !!
+* ? Time And Date - )
 
-		* *Time Zone - & + "Country"
+* ? Calendar Week - ) Calendar Week::10/20/2022
 
-			#### ------TIME AND DATE-----
-
-			* ? Time And Date - )
-
-			* ? Calendar Week - ) Calendar Week::10/20/2022
-
-			* * Current Time And Date (With Different Formats) - ) Time And Date
+* * Current Time And Date (With Different Formats) - ) Time And Date

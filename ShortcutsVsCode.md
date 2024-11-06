@@ -9,7 +9,7 @@
 
 =======================
 
-# VSCODE
+# VsCode
 
 Table of Contents
 =================

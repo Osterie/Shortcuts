@@ -9,7 +9,7 @@
 
 =======================
 
-# Spotify Shortcuts
+# Spotify
 
 * ! Show Keyboard Shortcuts List - Ctrl + / OR Ctrl + ? OR Shift + / OR Shift + +
 
