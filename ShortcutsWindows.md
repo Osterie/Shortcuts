@@ -5,9 +5,9 @@
 * //Useless
 * TODO
 
-# -----------------WINDOWS-----------------
+# Windows
 
-## -----------------GENERAL-----------------
+## General
 
 * !Switch Between Open Apps - Alt + Tab (Hold Shift To Go Backwards)
 
@@ -17,7 +17,7 @@
 
 * * Reveal Typed Password In Sign-In Screen - Alt + F8
 
-## Win shortcuts
+## Win Shortcuts
 
 * !Open Search - Win + S
 
@@ -90,7 +90,9 @@
 
 * !Shutdown - Win + X + U + U
 
-## ----------------FILE EXPLORER-----------------
+<!-- TODO add more. (add all, even bad ones) -->
+
+## File Explorer
 
 * !Close Active Tab/Window - Ctrl + W
 
@@ -108,7 +110,7 @@
 
 * *Display Preview Panel - Alt + P
 
-* ### ---Navigation---
+* ### Navigation
 
 * ?Traverse Back - Alt + Right
 
@@ -126,7 +128,7 @@
 
 * *Change Icon Size - Ctrl + Shift + Number
 
-## --------------MOUSE (useless, use keyboard instead)--------------
+## MOUSE (useless, use keyboard instead)
 
 * *Right Click - Press Touchpad 2 Fingers
 
