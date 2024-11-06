@@ -9,16 +9,16 @@
 
 =======================
 
-# ----------------LINUX (BASH COMMANDS)--------------------
+# Bash Commands
 
-## ----------General-------
+## General
 
 * ?Display Linux Process - top
 
 * ?Interactive Process Viewer
 
 
-## ------List Files----------
+## List Files And Directories
 
 * ! List All Files And Directories In Current Directory - ls
 
@@ -36,7 +36,7 @@ Color codes:
 * ? -R :  List Files In Sub-directories Aswell
 
 
-## ------Directory-------------
+## Directory Navigation
 
 * ! Navigate to root directory - cd /
 
@@ -44,7 +44,7 @@ Color codes:
 
 * ? Find Path Of Current Working Directory - pwd
 
-## ------Create, Change And Read Files (cat)---------
+## Create, Change and Read Files (cat)
 
 * ! CTRL + D - SAVES TEXT WRITTEN WITH cat
 
@@ -61,7 +61,7 @@ Color codes:
 * *Read A File, Reverse Order - tac filename.filetype
 
 
-## * ?---------COPY FILES AND DIRECTORIES (cp)----------
+## Copy Files and Directories (cp)
 
 * ? Copy File(s) To Sub-Directory - cp file (file file file) file-directory
 
@@ -70,7 +70,7 @@ Color codes:
 * ! Copy Entire Directory - cp -R Directory/ToBe/Copied Directory/ToBe/Copied/To
 
 
-## * ?-------MOVE OR RENAME FILES/DIRECTORIES----------
+## Move or Rename Files and Directories (mv)
 
 (Current Directory)
 * ? Rename A File - mv old_filename new_filename
@@ -78,7 +78,7 @@ Color codes:
 * ? Move A File - mv filename Path/To/New/Directory
 
 
-## * ?------------Directories------------
+## Directories
 
 * ! Create Directory - mkdir directoryfirst/directorsecond
  -p or -parents : Create A Directory Between Directories : music/2020/other creates 2020
@@ -93,8 +93,7 @@ Color codes:
 * ! Remove Empty Direcotry - rmdir direcotry
 -p : Remove Direcotry And Ancestors (rmdir -p a/b/c removes a, b, c)
 
-
----------------FILES---------------------
+## Files
 
 * ! Remove Files Within Directory - rm filename : Multiple - rm file1 file2 file3 :
 

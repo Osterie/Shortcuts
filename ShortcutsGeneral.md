@@ -9,7 +9,7 @@
 
 =======================
 
-# -------------- GENERAL SHORTCUTS --------------
+# General
 
 ## Ctrl shortcuts
 
