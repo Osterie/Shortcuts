@@ -86,24 +86,23 @@
 
 ## Quick Actions Using Win + X
 
-* !Power Options - Win + X + O
-
 * !Mobility Center - Win + X + B
-
+* ?Device Manager - Win + X + M
 * *Event Viewer - Win + X + V
-* *System - Win + X + Y
-* *Device Manager - Win + X + M
-* *Network Connections - Win + X + W
 * *Disk Management - Win + X + K
 * *Computer Management - Win + X + G
+
+### Settings 
+
+* !Power Options - Win + X + O
+* ?Installed Apps - Win + X + P
+* *System - Win + X + Y
+* *Network Connections - Win + X + W
+
+### Terminal 
+
 * ?Terminal - Win + X + I
 * ?Terminal (Admin) - Win + X + A
-* *Task Manager - Win + X + T (Shortcut already exists)
-* *Settings - Win + X + N (Shortcut already exists)
-* *File Explorer - Win + X + E (Shortcut already exists)
-* *Search - Win + X + S (Shortcut already exists)
-* *Run - Win + X + R (Shortcut already exists)
-* ?Installed Apps - Win + X + P
 
 ### Shut Down Or Sign Out
 
@@ -111,6 +110,14 @@
 * !Restart   - Win + X + U + R
 * ?Sign Out  - Win + X + U + I
 * *Sleep     - Win + X + U + S (Shortcut already exists)
+
+### Useless (Shortcut already exists)
+
+* *Task Manager - Win + X + T (Shortcut already exists)
+* *Settings - Win + X + N (Shortcut already exists)
+* *File Explorer - Win + X + E (Shortcut already exists)
+* *Search - Win + X + S (Shortcut already exists)
+* *Run - Win + X + R (Shortcut already exists)
 
 ## File Explorer
 
