@@ -1,8 +1,38 @@
+=======================
+
 * Normal
 * !Heavily Used
-* * ?Frequent
+* ?Frequent
 * *Less Used
 * //Useless
+* TODO
+
+=======================
+
+# VSCODE
+
+Table of Contents
+=================
+
+   * [Not yet categorized](#not-yet-categorized)
+   * [Files/Folders](#filesfolders)
+   * [View Primary SideBar](#view-primary-sidebar)
+   * [View Panel](#view-panel)
+   * [Terminal](#terminal)
+   * [Split View](#split-view)
+   * [Focus](#focus)
+   * [Cursor/Multiline-Cursors](#cursormultiline-cursors)
+   * [Navigation](#navigation)
+   * [Folding](#folding)
+   * [Editor](#editor)
+   * [Lines](#lines)
+   * [Change in space](#change-in-space)
+   * [Comments](#comments)
+   * [Meta](#meta)
+   * [Misc](#misc)
+   * [Extensions](#extensions)
+
+## Not yet categorized
 
 * ! Emmet shortcut ideas:
 * ! -write "printme" and an emmet shortcut comes up which creates the function calling for leetcode,
@@ -14,32 +44,6 @@
 
 TODO ||| LEARN AND USE EMMET SHORTCUTS
 TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
-
-# Most useful keyboard shortcuts VSCODE
-
-Table of Contents
-=================
-
-   * [Most useful keyboard shortcuts VSCODE](#most-useful-keyboard-shortcuts-vscode)
-   * [Table of Contents](#table-of-contents)
-        * [Not yet categorized](#not-yet-categorized)
-        * [Files/Folders](#filesfolders)
-        * [View Primary SideBar](#view-primary-sidebar)
-        * [View Panel](#view-panel)
-        * [Cursor/Multiline-Cursors](#cursormultiline-cursors)
-        * [Navigation](#navigation)
-        * [Folding](#folding)
-        * [Editor](#editor)
-        * [Lines](#lines)
-        * [Change in space](#change-in-space)
-        * [Comments](#comments)
-        * [Meta/Misc](#metamisc)
-        * [Extensions](#extensions)
-             * [Insert Numbers (By Asuka)](#insert-numbers-by-asuka)
-             * [Live Server](#live-server)
-             * [Peacock](#peacock)
-
-## Not yet categorized
 
 * !Trigger Suggest - Ctrl + K + Ctrl + I PRAC
 

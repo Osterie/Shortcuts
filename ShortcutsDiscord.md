@@ -1,3 +1,14 @@
+=======================
+
+* Normal
+* !Heavily Used
+* ?Frequent
+* *Less Used
+* //Useless
+* TODO
+
+=======================
+
 # Discord Shortcuts
 
 * ! Show Keyboard Shortcuts List - Ctrl + /

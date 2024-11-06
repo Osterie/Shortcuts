@@ -1,3 +1,5 @@
+=======================
+
 * Normal
 * !Heavily Used
 * ?Frequent
@@ -5,7 +7,25 @@
 * //Useless
 * TODO
 
+=======================
+
 # Windows
+
+Table of Contents
+=================
+
+   * [General](#general)
+   * [Win Shortcuts](#win-shortcuts)
+      * [Virtual Desktop](#virtual-desktop)
+   * [Quick Actions Using Win + X](#quick-actions-using-win--x)
+      * [Settings](#settings)
+      * [Terminal](#terminal)
+      * [Shut Down Or Sign Out](#shut-down-or-sign-out)
+      * [Useless (Shortcut already exists)](#useless-shortcut-already-exists)
+   * [File Explorer](#file-explorer)
+      * [Navigation](#navigation)
+   * [MOUSE (useless, use keyboard instead)](#mouse-useless-use-keyboard-instead)
+
 
 ## General
 

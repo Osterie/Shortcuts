@@ -1,3 +1,14 @@
+=======================
+
+* Normal
+* !Heavily Used
+* ?Frequent
+* *Less Used
+* //Useless
+* TODO
+
+=======================
+
 # Github
 
 * !Show Shortcuts For Page - ?

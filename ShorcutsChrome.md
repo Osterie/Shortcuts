@@ -1,3 +1,14 @@
+=======================
+
+* Normal
+* !Heavily Used
+* ?Frequent
+* *Less Used
+* //Useless
+* TODO
+
+=======================
+
 # Chrome
 
 Paste this into url bar For stuff:

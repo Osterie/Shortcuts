@@ -1,3 +1,14 @@
+=======================
+
+* Normal
+* !Heavily Used
+* ?Frequent
+* *Less Used
+* //Useless
+* TODO
+
+=======================
+
 # -------------- GENERAL SHORTCUTS --------------
 
 ## Ctrl shortcuts

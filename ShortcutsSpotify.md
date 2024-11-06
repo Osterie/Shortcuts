@@ -1,8 +1,13 @@
-! = Common shortcuts
+=======================
 
-? = Less Common shortcuts
+* Normal
+* !Heavily Used
+* ?Frequent
+* *Less Used
+* //Useless
+* TODO
 
-\* = Least Common shortcuts
+=======================
 
 # Spotify Shortcuts
 

@@ -1,9 +1,13 @@
+=======================
+
 * Normal
 * !Heavily Used
-* * ?Frequent
+* ?Frequent
 * *Less Used
 * //Useless
 * TODO
+
+=======================
 
 # ----------------LINUX (BASH COMMANDS)--------------------
 
