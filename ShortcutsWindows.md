@@ -88,9 +88,29 @@
 
 * !Power Options - Win + X + O
 
-* !Shutdown - Win + X + U + U
+* !Mobility Center - Win + X + B
 
-<!-- TODO add more. (add all, even bad ones) -->
+* *Event Viewer - Win + X + V
+* *System - Win + X + Y
+* *Device Manager - Win + X + M
+* *Network Connections - Win + X + W
+* *Disk Management - Win + X + K
+* *Computer Management - Win + X + G
+* ?Terminal - Win + X + I
+* ?Terminal (Admin) - Win + X + A
+* *Task Manager - Win + X + T (Shortcut already exists)
+* *Settings - Win + X + N (Shortcut already exists)
+* *File Explorer - Win + X + E (Shortcut already exists)
+* *Search - Win + X + S (Shortcut already exists)
+* *Run - Win + X + R (Shortcut already exists)
+* ?Installed Apps - Win + X + P
+
+### Shut Down Or Sign Out
+
+* !Shut Down - Win + X + U + U
+* !Restart   - Win + X + U + R
+* ?Sign Out  - Win + X + U + I
+* *Sleep     - Win + X + U + S (Shortcut already exists)
 
 ## File Explorer
 
