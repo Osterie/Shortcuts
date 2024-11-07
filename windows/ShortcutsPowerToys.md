@@ -29,7 +29,7 @@ Table of Contents
 
 * !Text Extractor - Shift + Win + T
 
-* ! ColorPicker - Shift + Win + C
+* !ColorPicker - Shift + Win + C
 
 * ?Pin App On Top - Ctrl + Win + T
 
@@ -38,7 +38,6 @@ Table of Contents
 * *Set Window In FancyZone - Shift While Dragging Window
 
 * *Find Mouse - LCtrl + LCtrl
-
 
 ## Power Search
 
