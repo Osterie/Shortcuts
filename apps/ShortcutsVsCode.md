@@ -13,24 +13,43 @@
 
 Table of Contents
 =================
+<!-- TODO fix table of contents -->
 
-   * [Not yet categorized](#not-yet-categorized)
-   * [Files/Folders](#filesfolders)
-   * [View Primary SideBar](#view-primary-sidebar)
-   * [View Panel](#view-panel)
-   * [Terminal](#terminal)
-   * [Split View](#split-view)
-   * [Focus](#focus)
-   * [Cursor/Multiline-Cursors](#cursormultiline-cursors)
-   * [Navigation](#navigation)
-   * [Folding](#folding)
-   * [Editor](#editor)
-   * [Lines](#lines)
-   * [Change in space](#change-in-space)
-   * [Comments](#comments)
-   * [Meta](#meta)
-   * [Misc](#misc)
-   * [Extensions](#extensions)
+- [VsCode](#vscode)
+- [Table of Contents](#table-of-contents)
+  - [Not yet categorized](#not-yet-categorized)
+  - [Notifications](#notifications)
+  - [Files/Folders](#filesfolders)
+  - [View](#view)
+    - [View Primary SideBar](#view-primary-sidebar)
+    - [View Panel](#view-panel)
+  - [Terminal](#terminal)
+    - [Split View](#split-view)
+    - [Focus](#focus)
+  - [Cursor/Multiline-Cursors](#cursormultiline-cursors)
+  - [Navigation](#navigation)
+    - [Cursor Navigation](#cursor-navigation)
+    - [Nagivation In Editor](#nagivation-in-editor)
+    - [Navigation Between Files](#navigation-between-files)
+  - [Folding](#folding)
+  - [Editor](#editor)
+    - [Editor Group](#editor-group)
+  - [Find and Replace](#find-and-replace)
+  - [Lines](#lines)
+  - [Change in space](#change-in-space)
+  - [Comments](#comments)
+  - [Meta](#meta)
+  - [Misc](#misc)
+  - [Debugging](#debugging)
+  - [Extensions](#extensions)
+    - [Insert Numbers (By Asuka)](#insert-numbers-by-asuka)
+    - [Live Server](#live-server)
+    - [Peacock](#peacock)
+    - [Git](#git)
+      - [In Git Diff View](#in-git-diff-view)
+    - [Markdown Language Features](#markdown-language-features)
+    - [Markdown All In One](#markdown-all-in-one)
+
 
 ## Not yet categorized
 
@@ -417,13 +436,25 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * !Git Open Changes - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
 * !Git Open File - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
 
+#### In Git Diff View
+
+* ?Revert Selected Ranges - Ctrl + K + Ctrl + R PRAC
+
 ### Markdown Language Features
 
 * !Open Markdown Preview - Ctrl + Shift + V
 * !Open Markdown Preview To The Side - Ctrl + K + V PRAC
 
-#### In Git Diff View
+### Markdown All In One
 
-* ?Revert Selected Ranges - Ctrl + K + Ctrl + R PRAC
+* ?Toggle Bold - Ctrl + B PRAC
+* ?Toggle Italic - Ctrl + I PRAC
+* ?Toggle Math - Ctrl + M PRAC
+* ?Toggle Strikethrough - Alt + S PRAC
+* ?Toggle Task List - Alt + C PRAC
+
+
+
+
 
 <a href="#top"> Top </a>
