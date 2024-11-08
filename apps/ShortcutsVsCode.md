@@ -45,57 +45,34 @@ Table of Contents
 TODO ||| LEARN AND USE EMMET SHORTCUTS
 TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
-* !Trigger Suggest - Ctrl + K + Ctrl + I PRAC
-
 * !Refactor - Ctrl + Shift + R PRAC
+
 
 <!-- TODO For the problem tab in the panel. Add information about the filtering of problems. And more shortcuts?  -->
 * ?Go To Next Problem (Error, Warning, Info) - Alt + F8 PRAC
 * ?Go To Previous Problem (Error, Warning, Info) - Alt + Shift + F8 PRAC
 
-
-
 * ?Go To Next Problem In Files(Error, Warning, Info) - F8 PRAC
 * ?Go To Previous Problem In Files(Error, Warning, Info) - Shift + F8 PRAC
 
 
-* !Toggle Find Using Case Sensitivity - Alt + C PRAC
-* !Toggle Find Using Whole Word - Alt + W PRAC
-* !Toggle Find Using Regular Expression - Alt + R PRAC
 
 * ?Remove Brackets - Ctrl + Alt + Backspace PRAC 
-
-* !Open External Terminal(To Root Of Opened Project) - Ctrl + Shift + C 
-
-* !Open Markdown Preview - Ctrl + Shift + V
-* !Open Markdown Preview To The Side - Ctrl + K + V PRAC
 
 * ?Indent Line - Ctrl + Å PRAC
 * ?Outdent Line - Ctrl + \ OR Shift + Tab PRAC
 
 * ?Trigger Suggest - Ctrl + Space OR Ctrl + K + Ctrl + I PRAC
 
+
 * !Format Document - Shift + Alt + F PRAC
 
 * ?Format Selection - Ctrl + K + Ctrl + F PRAC
 
+
 * ?Focus Primary Sidebar - Ctrl + 0 PRAC
 
-* ?Focus Editor Group - Ctrl + 1
-
-* ?Move Active Editor Group - Ctrl + K + Left/RightArrow PRAC
-
-* ?Pin/Unpin Editor - Ctrl + K + Shift + Enter PRAC
-
 * !Go To Bracket - Ctrl + Shift + | PRAC
-
-* !Global Find - Ctrl + Shift + F
-* !Search And Replace Files Ctrl + Shift + H
-
-
-* *Close Window - Ctrl + F4 OR Ctrl + Shift + W
-
-* ?Close Other Editors - Ctrl + K + Q PRAC
 
 * *Copy Editor Into New Window - Ctrl + K + O
 
@@ -118,8 +95,9 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * ?Reveal Active File In Explorer - Ctrl + K + R OR Shift + Alt + R PRAC
 
 <!-- TODO FIX STRUCTURE -->
+## View 
 
-## View Primary SideBar
+### View Primary SideBar
 
 * !Show Explorer - Ctrl + Shift + E
 * !Show Extensions - Ctrl + Shift + X
@@ -128,7 +106,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * !Show Source Control - Ctrl + Shift + G + G
 * ?Show TODOs Tree (extension) - Ctrl + Shift + G + T
 
-## View Panel
+### View Panel
 
 * !Toggle Panel Visibility - Ctrl + J PRAC
 
@@ -247,9 +225,9 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 ## Folding
 
-* !Fold All - Ctrl + K + Ctrl + 0
-
 * !Fold All Block Comments - Ctrl + K + Ctrl + ' PRAC
+
+* !Fold All - Ctrl + K + Ctrl + 0
 
 * !Unfold All - Ctrl + K + Ctrl + J
 
@@ -261,22 +239,42 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Fold All Except Selected - Ctrl + K + Ctrl + -
 
-
 ## Editor
 
-* !Open Other Editor In Group - Ctrl + Tab / Ctrl + Shift + Tab
+* !Navigate To Other Editor In Group - Ctrl + Tab / Ctrl + Shift + Tab
 
+* !Close All Editors In Group - Ctrl + K + W
+* !Close Other Editors In Group - Ctrl + K + Q PRAC
 * !Close Editor - Ctrl + W
 
 * !Reopen Closed Editor - Ctrl + Shift + T
 
-* !Maximise Editor Group - Ctrl + K + Ctrl + M PRAC
+* ?Pin/Unpin Editor - Ctrl + K + Shift + Enter PRAC
 
 * ?Open active file in new editor - Ctrl + K , O PRAC
 
 * *Move Editor Left / Right - Ctrl + Shift + PageUp / PageDown
 
 * *Open Previous / Next Editor - Ctrl + PageUp / PageDown
+
+### Editor Group
+
+* !Maximise Editor Group - Ctrl + K + Ctrl + M PRAC
+
+* ?Focus Editor Group - Ctrl + 1
+
+* ?Move Active Editor Group - Ctrl + K + Left/RightArrow PRAC
+
+## Find and Replace
+
+* !Find - Ctrl + F
+* !Find and Replace - Ctrl + H
+* !Global Find - Ctrl + Shift + F
+* !Search And Replace Files Ctrl + Shift + H
+
+* !Toggle Find Using Case Sensitivity - Alt + C PRAC
+* !Toggle Find Using Whole Word - Alt + W PRAC
+* !Toggle Find Using Regular Expression - Alt + R PRAC
 
 ## Lines
 
@@ -316,10 +314,11 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Reload Window - Ctrl + R (When condition must be changed from isDevelopment to for example editorFocus)
 
-
 * !Command Palette - Ctrl + Shift + P
 
 * !Save All - Ctrl + K + S
+
+* !Open External Terminal(To Root Of Opened Project) - Ctrl + Shift + C 
 
 * ?Toggle Full Screen - F11
 
@@ -349,6 +348,8 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * *Copy Absolute Path Of Active File - Ctrl + K + P OR Shift + Alt + C PRAC
 * *Copy Relative Path Of Active File - Ctrl + K + Ctrl + Shift + C PRAC
 
+* *Close Window - Ctrl + F4 OR Ctrl + Shift + W
+
 ## Misc
 
 * !Rename - F2 (works for example renaming all uses also) PRAC
@@ -366,7 +367,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 ## Debugging
 
-<!-- TODO add shortcuts for debugging -->
+<!-- TODO add shortcuts for debugging and set priority and sort -->
 
 * ?Debug Continue - F5
 * ?Debug Disconnect - Shift + F5
@@ -385,16 +386,8 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * ?Step Over - F10
 * ?Stop - Shift + F5
 * ?Toggle Breakpoint - F9
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-
 
 ## Extensions
-
 
 ### Insert Numbers (By Asuka)
 
@@ -423,6 +416,11 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Git Open Changes - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
 * !Git Open File - Ctrl + K + Ctrl + C (Custom set hotkeys, also set when condition) PRAC
+
+### Markdown Language Features
+
+* !Open Markdown Preview - Ctrl + Shift + V
+* !Open Markdown Preview To The Side - Ctrl + K + V PRAC
 
 #### In Git Diff View
 
