@@ -16,27 +16,33 @@
 Table of Contents
 =================
 
-   * [Basic](#basic)
-   * [Music Controls](#music-controls)
-      * [Skipping](#skipping)
-      * [Seeking](#seeking)
-      * [Volume](#volume)
-      * [Play Modes](#play-modes)
-   * [Navigation](#navigation)
-      * [Left Sidebar Navigation](#left-sidebar-navigation)
-      * [Main Area Navigation](#main-area-navigation)
-      * [Right Sidebar Navigation](#right-sidebar-navigation)
-   * [Layout](#layout)
-   * [Create](#create)
-   * [Meta](#meta)
-   * [Miscellaneous](#miscellaneous)
+- [Spotify](#spotify)
+- [Table of Contents](#table-of-contents)
+  - [Basic](#basic)
+  - [Music Controls](#music-controls)
+    - [Skipping](#skipping)
+    - [Seeking](#seeking)
+    - [Volume](#volume)
+    - [Play Modes](#play-modes)
+  - [Navigation](#navigation)
+    - [Search](#search)
+    - [History](#history)
+    - [Quick Navigation (Sidebars and Main Area)](#quick-navigation-sidebars-and-main-area)
+      - [Left Sidebar Navigation](#left-sidebar-navigation)
+      - [Main Area Navigation](#main-area-navigation)
+      - [Right Sidebar Navigation](#right-sidebar-navigation)
+  - [Layout](#layout)
+  - [Create](#create)
+  - [Meta](#meta)
+  - [Miscellaneous](#miscellaneous)
+
 
 ## Basic
 
 * !Zoom In - Ctrl + + 
-    * ?Zoom In Further - Shift + Ctrl + + 
+  * ?Zoom In Further - Shift + Ctrl + + 
 * !Zoom Out - Ctrl + -
-    * ?Zoom Out Further - Shift + Ctrl + -
+  * ?Zoom Out Further - Shift + Ctrl + -
 * !Reset Zoom - Ctrl + 0
 
 * *Open Context Menu (when tab focus on song?) - Alt + J
