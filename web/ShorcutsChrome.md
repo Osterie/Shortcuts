@@ -11,6 +11,43 @@
 
 # Chrome
 
+Table of Contents
+=================
+- [Chrome](#chrome)
+- [Table of Contents](#table-of-contents)
+  - [Tab And Window shortcuts](#tab-and-window-shortcuts)
+    - [Window](#window)
+    - [Tab](#tab)
+      - [Tab Navigation](#tab-navigation)
+      - [Alt + f shortcuts](#alt--f-shortcuts)
+        - [Passwords And Autofill](#passwords-and-autofill)
+        - [History](#history)
+        - [Bookmarks And Lists](#bookmarks-and-lists)
+        - [Extensions](#extensions)
+        - [Cast, Save And Share](#cast-save-and-share)
+          - [Cast](#cast)
+          - [Save](#save)
+          - [Share](#share)
+  - [Google Chrome Featrue Shortcuts](#google-chrome-featrue-shortcuts)
+    - [Layout](#layout)
+    - [Open Specific Pages](#open-specific-pages)
+    - [Focus](#focus)
+    - [Find](#find)
+    - [Dev Tools](#dev-tools)
+    - [Other](#other)
+  - [Address Bar Shortcuts](#address-bar-shortcuts)
+  - [Webpage Shortcuts](#webpage-shortcuts)
+    - [Print, Save, Open](#print-save-open)
+    - [Loading](#loading)
+    - [Navigation](#navigation)
+    - [Zoom](#zoom)
+  - [Mouse Shortcuts](#mouse-shortcuts)
+    - [Links and Tabs](#links-and-tabs)
+      - [Open Links](#open-links)
+      - [Move Tabs](#move-tabs)
+    - [Other](#other-1)
+
+
 Paste this into url bar For stuff:
 - chrome://about
 
