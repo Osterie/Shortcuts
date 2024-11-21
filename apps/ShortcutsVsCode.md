@@ -18,12 +18,23 @@ Table of Contents
 - [VsCode](#vscode)
 - [Table of Contents](#table-of-contents)
   - [Not yet categorized](#not-yet-categorized)
+  - [Alt Shorcuts](#alt-shorcuts)
+    - [File](#file)
+    - [View](#view)
+      - [Appearance](#appearance)
+      - [Editor Layout](#editor-layout)
+        - [Split Layout](#split-layout)
+    - [Go](#go)
+    - [Run](#run)
+      - [Breakpoints](#breakpoints)
+    - [Terminal](#terminal)
+    - [Help](#help)
   - [Notifications](#notifications)
   - [Files/Folders](#filesfolders)
-  - [View](#view)
+  - [View](#view-1)
     - [View Primary SideBar](#view-primary-sidebar)
     - [View Panel](#view-panel)
-  - [Terminal](#terminal)
+  - [Terminal](#terminal-1)
     - [Split View](#split-view)
     - [Focus](#focus)
   - [Cursor/Multiline-Cursors](#cursormultiline-cursors)
@@ -74,7 +85,9 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * ?Go To Next Problem In Files(Error, Warning, Info) - F8 PRAC
 * ?Go To Previous Problem In Files(Error, Warning, Info) - Shift + F8 PRAC
 
+* *Close Workspace - Ctrl + K + F
 
+* ?Flip Layout - Shift + Alt + 0 PRAC
 
 * ?Remove Brackets - Ctrl + Alt + Backspace PRAC 
 
@@ -83,6 +96,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * ?Trigger Suggest - Ctrl + Space OR Ctrl + K + Ctrl + I PRAC
 
+* !Run - Ctrl + F5 PRAC
 
 * !Format Document - Shift + Alt + F PRAC
 
@@ -94,6 +108,109 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 * !Go To Bracket - Ctrl + Shift + | PRAC
 
 * *Copy Editor Into New Window - Ctrl + K + O
+
+## Alt Shorcuts
+
+Note that only the useful shortcuts, or those which don't already have an easier shortcut are mentioned.
+
+### File
+
+* !Add Folder To Workspace - Alt + F + D
+
+* ?Toggle Auto Save - Alt + F + U
+
+* ?Revert File (Undo non-saved changes) - Alt + F + U
+
+* *Profiles - Alt + F + P + P
+
+### View
+
+* ?Open View - Alt + V + O + Enter
+
+* ?Toggle Menu Bar - Alt + V + A + B + Enter
+
+#### Appearance
+
+* !Status Bar - Alt + V + A + T PRAC
+
+* ?Move Primary Left/Right - Alt + V + A + M + Enter PRAC
+
+* ?Toggle Minimap - Alt + V + A + M + M + Enter PRAC
+
+* ?Toggle Breadcrumbs - Alt + V + A + B + B + Enter PRAC
+
+* ?Toggle Sticky Scroll  - Alt + V + A + S + Enter PRAC
+* ?Toggle Render Whitespace - Alt + V + A + R + Enter PRAC
+* *Toggle Render Control Characters - Alt + V + A + C + C + Enter PRAC
+
+* *Centered Layout - Alt + V + A + C + Enter PRAC
+
+#### Editor Layout
+
+* *Move Editor Into New Window - Alt + V + L + M PRAC (Might as well use the copy editor into new window shortcut...)
+
+##### Split Layout
+
+* !Single Column/Row Editor Layout - Alt + V + L + S PRAC
+
+* *Double Column Editor Layout - Alt + V + L + T PRAC
+* *Triple Column Editor Layout - Alt + V + L + H PRAC
+
+* *Double Row Right Editor Layout - Alt + V + L + O PRAC
+
+* *Double Column Right Editor Layout - Alt + V + L + C + C + Enter PRAC
+
+* *Double Row Editor Layout - Alt + V + L + W PRAC
+* *Triple Row Editor Layout - Alt + V + L + R + R + Enter PRAC
+
+* *Grid (2x2) Editor Layout - Alt + V + L + G + G + Enter PRAC
+
+* ?Split Down  - Alt + V + L + D         PRAC
+* ?Split Left  - Alt + V + L + L + Enter PRAC
+* ?Split Right - Alt + V + L + R + Enter PRAC
+
+### Go
+
+* *Go To Declaration - Alt + G + D + D + Enter PRAC
+
+* *Go To Type Definition - Alt + G + T PRAC
+
+### Run 
+
+
+* ?Start Debugging - Alt + R + S PRAC (Already exist shortcut, this this is easier than the original one)
+* ?Start Running   - Alt + R + W PRAC (Already exist shortcut, this this is easier than the original one)
+
+#### Breakpoints
+
+* !Remove All Breakpoints - Alt + R + A PRAC
+* ?Enable All Breakpoints - Alt + R + E PRAC
+* ?Disable All Breakpoints - Alt + R + L PRAC
+
+* ?Conditional Breakpoint - Alt + R + N + C PRAC
+* ?Edit Breakpoint - Alt + R + N + E PRAC
+* ?Function Breakpoint - Alt + R + N + F PRAC
+* ?Logpoint - Alt + R + N + L PRAC
+* ?Triggered Breakpoint - Alt + R + N + T PRAC
+
+### Terminal
+
+* *Run Active File - Alt + T + A
+* *Run Selected Text - Alt + T + S + S + Enter
+
+### Help
+
+* !Editor Playground - Alt + H + N PRAC
+
+* ?Release Notes - Alt + H + R PRAC
+
+* ?Process Explorer - Alt + H + P PRAC
+
+* ?Check For Updates - Alt + H + U PRAC
+
+* ?About - Alt + H + A PRAC
+
+* *Welcome - Alt + H + Enter
 
 ## Notifications
 
@@ -315,7 +432,12 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 ## Change in space
 
-* !Split Editor - Ctrl + | (Pipe)
+
+* !Split Editor Right - Ctrl + |
+
+* !Split Editor Up - Ctrl + K + Ctrl + | PRAC
+
+* ?Split/Unsplit Editor In Group  - Ctrl + K + Ctrl + Shift + | PRAC
 
 * !Toggle Sidebar - Ctrl + B
 
@@ -428,6 +550,7 @@ TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * *Darken Workspace - Alt + Win + -
 * *Lighten Workspace - Alt + Win + +
+
 
 ### Git
 
