@@ -70,6 +70,8 @@ Table of Contents
 * ! -write "printme" and an emmet shortcut comes up which creates the function calling for leetcode,
 * ! for javascript js end and python py end.
 
+* ! LEARN: div*5 and such. Example: div*5>ul>li*3>a{link $} PRAC
+
 * !https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf // Official VSCODE shortcuts
 
 * !Open Keyboard Shortcuts Reference - Ctrl + K + Ctrl + R
