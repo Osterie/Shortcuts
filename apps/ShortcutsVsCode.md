@@ -46,11 +46,13 @@ Table of Contents
   - [Editor](#editor)
     - [Editor Group](#editor-group)
   - [Find and Replace](#find-and-replace)
+    - [Regex](#regex)
   - [Lines](#lines)
   - [Change in space](#change-in-space)
   - [Comments](#comments)
   - [Meta](#meta)
   - [Misc](#misc)
+    - [Peek](#peek)
   - [Debugging](#debugging)
   - [Extensions](#extensions)
     - [Insert Numbers (By Asuka)](#insert-numbers-by-asuka)
@@ -76,6 +78,7 @@ TODO ||| LEARN AND USE EMMET SHORTCUTS
 TODO ||| LEARN ALSO HOW TO MAKE CUSTOM EMMET SHORTCUTS AND DO IT
 
 * !Refactor - Ctrl + Shift + R PRAC
+
 
 
 <!-- TODO For the problem tab in the panel. Add information about the filtering of problems. And more shortcuts?  -->
@@ -412,6 +415,11 @@ Note that only the useful shortcuts, or those which don't already have an easier
 * !Toggle Find Using Whole Word - Alt + W PRAC
 * !Toggle Find Using Regular Expression - Alt + R PRAC
 
+
+### Regex
+
+<!-- TODO write about, and give example uses.https://code.visualstudio.com/docs/getstarted/tips-and-tricks#:~:text=what%20was%20matched%2C-,using%20regular,-expressions%20with%20capturing -->
+
 ## Lines
 
 * !Delete Line - Ctrl + Shift + K PRAC
@@ -495,15 +503,19 @@ Note that only the useful shortcuts, or those which don't already have an easier
 
 * !Rename - F2 (works for example renaming all uses also) PRAC
 
+* ?Go To Definition - F12
+* 
 * *Focus On Open Editors - Ctrl + K + E
 
 * *Change Tab Mode - Ctrl + M
 
 * *Show Refrences - Shift + F12
 
-* *Go To Definition - F12
-* *Peek Definition - Alt + F12
-* *Open Definition To The Side - Ctrl + K + F12
+### Peek
+
+* ?Peek Definition - Alt + F12 PRAC
+* ?Open Definition To The Side - Ctrl + K + F12 PRAC
+* *Peek Implementations - Ctrl + Shift + F12
 
 
 ## Debugging
@@ -562,6 +574,11 @@ Note that only the useful shortcuts, or those which don't already have an easier
 #### In Git Diff View
 
 * ?Revert Selected Ranges - Ctrl + K + Ctrl + R PRAC
+
+* ?Go To Next Change - F7 PRAC
+* ?Go To Previous Change - Shift + F7 PRAC
+* ?Go To Line In Diff Editor - Arrow Keys
+* ?Jump Back To Diff Editor In Selected Line - Enter
 
 ### Markdown Language Features
 
