@@ -473,7 +473,7 @@ Note that only the useful shortcuts, or those which don't already have an easier
 
 * ?Toggle Full Screen - F11
 
-* *New File But More Options - Ctrl + Alt + Win + N
+* !New File But More Options - Ctrl + Alt + Win + N
 
 * ?New Line Below - Ctrl + Enter PRAC
 * ?New Line Above - Ctrl + Shift + Enter PRAC

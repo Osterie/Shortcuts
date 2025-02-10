@@ -79,6 +79,8 @@ Paste this into url bar For stuff:
 * ?Move Tabs Left - Ctrl + Shift + PgUp
 * ?Move Tabs Right- Ctrl + Shift + PgDn
 
+* ?Search tabs - Ctrl + Shift + A
+
 * *Open Your Home Page In The Current Tab - Alt + Home
 
 #### Tab Navigation
